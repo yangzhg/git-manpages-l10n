@@ -13,6 +13,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>index/索引/暂存区</term></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefindexaindex</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>stage</term></tig></langSet>
@@ -41,6 +42,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>stash</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>进度保存/保存进度/贮藏（做名词）</term></tig></langSet>
+                <descrip>local onde se acumula uma pilha de objetos</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>3-way merge</term></tig></langSet>
@@ -161,6 +163,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit message</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>提交说明</term></tig></langSet>
+                <descrip>On différencie le terme nominal commit (non traduit) du verbe (valider, validation)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit object</term></tig></langSet>
@@ -281,6 +284,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object type</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>对象类型</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>option</term></tig></langSet>
@@ -289,6 +293,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>包/打包</term></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpackapack</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>packed</term></tig></langSet>
@@ -497,6 +502,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>树/目录树</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree object</term></tig></langSet>
@@ -1313,10 +1319,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>content to be committed</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>要提交的内容</term></tig></langSet>
+                <descrip>commit 在git中是提交的意思</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>；</term></tig></langSet>
+                <descrip>中文分号</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
@@ -1433,10 +1441,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Git archive</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>仓库</term></tig></langSet>
+                <descrip>对于arch用户</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>gitfile</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>gitfile（仓库链接文件）</term></tig></langSet>
+                <descrip>仓库链接文件</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reachability bitmaps</term></tig></langSet>
@@ -1533,6 +1543,11 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tags</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>标签</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>linkgit:git[1]</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <note from="translator">git(1)文档</note>
             </termEntry>
         </body>
     </text>
