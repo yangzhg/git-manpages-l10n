@@ -37,6 +37,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>índice</term></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefindexaindex</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>notes</term></tig></langSet>
@@ -1397,6 +1398,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>stash</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>estoque</term></tig></langSet>
+                <descrip>local onde se acumula uma pilha de objetos</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;newbase&gt;</term></tig></langSet>
