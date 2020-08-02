@@ -49,6 +49,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>atriðaskrá</term></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefindexaindex</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file</term></tig></langSet>
@@ -421,6 +422,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>uppruni</term></tig></langSet>
+                <descrip>glossary: default name of upstream repository.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
@@ -709,10 +711,12 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>run</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>framkvæma</term></tig></langSet>
+                <descrip>Í samhenginu 'run command' (framkvæma skipun).</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>config</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>stillingaskrá</term></tig></langSet>
+                <descrip>gitconfigを示す場合、カタカナ語にしたほうが通じやすいと考える。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
@@ -721,6 +725,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>override</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>ógilda</term></tig></langSet>
+                <descrip>eða hunsa</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>argument</term></tig></langSet>
@@ -1473,18 +1478,22 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>content to be committed</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>commit 在git中是提交的意思</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>中文分号</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>&gt; このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpackapack</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alternate object database</term></tig></langSet>
@@ -1549,6 +1558,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>DAG</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>Directed Acyclic Graph</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unreachable object</term></tig></langSet>
@@ -1597,18 +1607,22 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object type</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
@@ -1644,7 +1658,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tags</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+                <langSet xml:lang="is"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
