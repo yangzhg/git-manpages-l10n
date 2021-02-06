@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Infamous</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Infame</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Synonym</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Sinônimo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Implies `--patch`</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Implica no uso da opção `--patch`</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>concatenated</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>dispostos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration variable</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>variável de configuração</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>environment variable</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>variável de ambiente</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>índice</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notes</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>anotações</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>For details</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Para mais detalhes consulte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>match</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>coincidir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>if unspecified</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>se não for especificado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>detach</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>desanexará</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>called</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>invocado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bare clone</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>clone vazio</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Detect copies</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Detecta cópias</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Detect renames</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Detecta renomeações</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>score</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>pontuação</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Detect copies harder</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Detecta cópias com mais esforço</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Note that</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Observe que</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>implies</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Implica no uso da opção</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Passa</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Encaminha</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>housekeeping</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>tarefa de limpeza</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>will be printed to</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>será exibida</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>overridden</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>substituída</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Note</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Observação</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checks out</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>elimina</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fallback</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>substituto/forma retroativa/retroagir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>ramo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>pai, matriz, origem</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unregister</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Cancela o registro</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>from a remote branch</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>a partir do ramo remoto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>TEMPLATE DIRECTORY</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>DIRETÓRIO MODELO</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>template files</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>arquivos modelo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>options</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>opções</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>path</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>caminho</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>detached</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>desanexado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>snapshot</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>instantâneo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>missing object</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>objecto perdido</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>This is enabled by default</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>A predefinição é, sempre ativado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>charset</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>definição de caracteres</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>annotated tags</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>anotações das tags</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Commit Limiting</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Limitação do Commit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>named file</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>nome do arquivo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>graft</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>enxerto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>thin pack</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>pacote magro</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Object Traversal</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Passagem do Objeto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>busca</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>captura</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hardlinks</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>links diretos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cherry-pick</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>escolha seletiva</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>When doing a dry-run</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Ao fazer um ensaio</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>predefinido</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>standard</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>padrão</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pattern</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>padrão</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>blob</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>bolha</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branches</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>ramificações</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>eliminar, remover, verificar, averiguar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default to</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>a predefinição retorna para</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parser</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>analise, analisar, analisador</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reset</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>redefinir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>first line indent</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>recuo da primeira linha</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>countermand</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>contrapor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>scissors</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>corte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>perforation marks</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>marcas de perfuração</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailer</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>trecho</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>anyway</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>mesmo assim</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>expressão-regular</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>human readability</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>legibilidade humana</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Overlapping ranges</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Intervalos sobrepostos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backend</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>estrutura</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>chomp</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>comprima</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>espaço</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

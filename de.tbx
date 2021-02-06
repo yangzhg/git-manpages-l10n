@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>section</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Gruppe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Backslash</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rückwärtsschrägstrich</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Commit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Verlauf</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>designed for machine consumption</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>maschinenlesbar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>working tree copy</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Arbeitskopie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plumbing</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>"plumbing"</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>porcelain</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>"porcelain"</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Leerzeichen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>doublequote</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>doppeltes Anführungszeichen</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>section</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Abschnitt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Arbeitsbereich</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>work tree</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Arbeitsbereich</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>work directory</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Arbeitsverzeichnis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>command</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Befehl</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote-tracking branch</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>veraltet: ferner Entwicklungszweig (remote-tracking branch)</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>remote-tracking branch</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>veraltet: remote-tracking Entwicklungszweig</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote-tracking-branch</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Remote-Tracking-Branch</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>committer date</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Commit-Datum</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>author date</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Autor-Datum</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Repository</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>veraltet: Projektarchiv</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>embedded repository</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>eingebettetes Repository</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Pfadspezifikation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>no-op</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Nulloperation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tagname</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Markierung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parents</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Elternteile</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

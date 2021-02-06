@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>date</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>dagsetning</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revision</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>endurskoðun</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upload-pack</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>upphalspakki</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>verbose</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>ferlisupplýsingar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>option</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>valmöguleiki</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>textastrengur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>server</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>netþjónn</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>protocol</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>samskiptareglur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>command line</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>skipanalína</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>atriðaskrá</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>skjal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>synopsis</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>samantekt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>description</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>útskýring</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>snapshot</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>tækifærismynd</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>verktré</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>innlegg</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>status</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>staða</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stage</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>staðhæfa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>by default</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>forstilltur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ignore</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>hunsa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fail</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>misfarast</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>directory recursion</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>rakning skráasafns</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filename globbing</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>skjalaklumpun</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glob</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>klumpur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shell</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>skel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>silently</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>án endursvars</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>force</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>þvinga</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>syntax</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>samsetningareglur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>slóðatilgreining</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>skýringaskrá</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ignored</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>hunsaður</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contents</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>innihald</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interactively</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>gagnvirkt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>optional</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>valfrjáls</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>argument</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>breyta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>path</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>slóð</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>operation</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>aðgerð</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mode</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>fyrirkomulag</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hunk</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>stykki</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>patch</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>viðbætur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>diff</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>mismunaskrá</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>vs.</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>gagnvart</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>breyta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>editor</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>ritvinnsluforrit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>haus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>apply</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>leggja við</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>alternative</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>annar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>content</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>innihald</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>update</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>uppfæra</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file glob</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>skjalaklumpur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>skrá</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>difference</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>mismunur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>intent</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>tilgangur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hunk selector</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>stykkjaval</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>entry</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>færsla</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>modify</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>breyta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>track</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>hafa undir eftirliti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tracked</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>undir eftirliti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>no-op</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>slæpi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>no-op command</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>slæpiskipun</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unstaged</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>óstaðhæfður</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>stillingar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>variable</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>breyta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>embedded</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>innfelldur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>hirsla</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sub-</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>undirskipaður</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>module</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>verkeining</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suppress</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>þagga</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>operation</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>aðgerð</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>process</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>ferli</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>freshly</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>ferskt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>override</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>taka ekki tillit til</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>executable</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>keyranlegur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>disk</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>diskdrif</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>standard input</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>staðalílag</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>global</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>altækur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>local</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>sértækur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>documentation</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>leiðbeiningasafn</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subdirectory</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>undirskrá</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>script</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>forritlingur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>expand</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>útvíkka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interactive</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>gagnvirkur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>output</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>frálag</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>loop</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>lykkja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subcommand</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>undirskipun</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>prompt</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>kvaðning</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>range</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>seiling</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>highlight</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>auðkenna</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revert</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>bakfæra</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>untracked</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>ekki undir eftirliti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>reglusegð</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suite</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>fylking</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>einrita</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>grein</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>fjarlægja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>check out</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>útskrá</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>initial branch</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>upphafsgrein</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fork</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>kvísla</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>forked</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>kvíslaður</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>sækja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>draga</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>steypa saman</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>master branch</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>höfuðgrein</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>uppruni</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>tilvísun</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reference</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>tilvísun</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>initialize</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>frumstilla</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>local machine</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>staðbundin vél</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>viðfang</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hardlinked</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>harðhlekkjaður</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>optimization</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>fínstillingar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>transport</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>milliflutningur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>back-up</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>varaafrit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>alternate</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>staðgengill</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>upptök</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>corrupt</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>skrumskældur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dependancy</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>ákvæðatengsl</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>network</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>netkerfi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>storage</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>geymslupláss</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cost</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>vinnslukostnaður</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dissociate</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>aðskilja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>quiet</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>án frálags</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>quietly</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>án frálags</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>operate</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>verka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>progress</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>framvinda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>standard</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>staðlaður</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>error stream</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>villusteymi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>terminal</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>útstöð</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>working directory</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>verkskrá</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filter-spec</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>síutilgreiningar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filter</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>sía</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file blob</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>skjalaslumma</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>limit</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>takmörk</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>í bakátt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>merki</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>sniðmót</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>key</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>lykill</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>value</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>gildi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>config file</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>stillingaskrá</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>submodule</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>undirverkeining</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>maintain</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>viðhalda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>endurupptaka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>núgildandi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>format</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>snið</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>algorithm</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>reikniforskrift</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hash</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>mylnuskrá</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filesystem-agnostic</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>ómeðvitaður um skráasafnið</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>run</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>framkvæma</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>environment</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>umhverfi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>environment variable</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>umhverfisbreyta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration variable</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>stillingabreyta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>krækja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sample hook</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>krækjudæmi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>execute</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>hrinda í framkvæmd</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>code</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>forskrift</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>record</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>bóka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pristine</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>ósnertur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>vefslóð</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>address</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>vistfang</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>sannvottun</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>host</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>hýsill</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>port</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>tengill</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parameters</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>færslubreytur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trial</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>atlaga</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>compilation</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>aðrakstur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>törn</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>local path</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>staðbundin slóð</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>global path</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>algild slóð</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>imply</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>fela í sér</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>stjaka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bundle</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>knippi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>helper</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>hjálpargagn</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rewrite</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>endurskrifa</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

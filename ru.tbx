@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hunk</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>часть, блок, блок изменений, фрагмент [патча]</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Added content</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>добавляемое содержимое</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>removed content</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>удаляемое содержимое</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>спецификатор пути</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>3-way</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>трёхходовое</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>HEAD, указатель на ветку</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pull Request</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Запрос на слияние</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Release</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Выпуск</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>учётная запись</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>amend</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>исправить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bare</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>голый</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>blame</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>авторы изменений</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bookmark</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>закладка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ветка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branches</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ветки</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bundle</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>пакет</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>кэш</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cannot</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>не удалось, невозможно</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>changeset</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>набор изменений</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>перейти, забрать состояние, переключение ветки, переключиться, извлечь</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>children</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>потомки</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>chunk</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>часть, кусок</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>clone (noun)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>клон</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>clone (verb)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>клонировать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit (noun)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>коммит</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit (verb)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>закоммитить, создать коммит</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit message</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сообщение коммита</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>указатель коммита</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>коммиты</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>committer</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>коммиттер</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>committing</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>коммичу</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conflict</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>конфликт</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>create</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>создать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>destructive operation</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>разрушающая операция</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отделённый HEAD</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>details</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>описание</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>died</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>критическая ошибка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>diff</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сравнение, различия, список изменений, утилита сравнения</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discard</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отменить изменения</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dry run</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>пробный запуск</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>[электронная] почта, email</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>failed</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сбой</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>функциональность, тематическая ветка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>извлечь</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>исправление</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>force</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>принудительно</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>generation</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>[номер] поколения</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>global ignore file</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>глобальный файл игнорирования</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>graft</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сброшенный</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hard reset</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>жёсткий сброс</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>blob</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>большой двоичный объект, бинарный объект (Binary Large OBject)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bisect</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>двоичный поиск, поиск разделением пополам</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>перехватчик</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hotfix</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>исправление</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ignore</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>игнорировать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invalid</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>недопустимый, неправильный, недействительный</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>item</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>элемент</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>items</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>элементы</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>lightweight tag</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>легковесная метка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mainline</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>основная ветка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>слить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merging</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>слияние</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mode</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>режим [доступа [к файлу]]</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notes</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>заметки</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>one or more</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>один или несколько</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>родитель</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>patch</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>изменение, патч</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pattern</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>шаблон</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pick</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>выбрать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>porcelain</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>машиночитаемый формат</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>production</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>стабильная</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>prune</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>почистить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>получить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отправить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase (noun)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>перемещение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase (pronoun)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>переместить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase (verb)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>переместить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ссылка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reflog</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>журнал ссылок</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>refspec</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>спецификация ссылки</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>регулярное выражение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>репозиторий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>репозиторий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reset</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сбросить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>resolve</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>разрешить конфликт, распознать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reverse</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>обратить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reverse commit</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>обратный коммит, обратить коммит</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revert</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>обратить изменения</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revision</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>редакция</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shallow</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>частичный</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shelf</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>долгий ящик (= место для откладывания изменений)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shelve</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отложить изменения (в долгий ящик)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shelved</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отложенные изменения (в долгом ящике)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shelves</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отложенные изменения</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source path</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>исходный путь</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>split</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>разделить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stage</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>индексировать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>staged</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>индексированные</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stash (noun)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>спрятанные изменения</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stash (verb)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>спрятать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stashed</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>спрятанное</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stashes</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>спрятанные</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>strip</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>срезать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>submodule</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>подмодуль</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subrepository</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>подрепозиторий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>summary</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сводка изменений</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>symlink</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>символьная ссылка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>метка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>three-way</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>трёхходовое</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ticket</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>запрос</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tracked</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отслеживаемый</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailer</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>завершитель</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailers</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>завершители</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>указатель дерева</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unmerged</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>не слитые</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unrecognized</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>неопознанный</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unshelve</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>забрать из ящика</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unstage</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>убрать из индекса</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>untracked</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>неотслеживаемый</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>update (noun)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>обновление</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>update (verb)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>обновить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>вышестоящий [репозиторий или ветка]</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>имя пользователя</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>valid</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>действительное, допустимое</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>пробел</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>working area</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>рабочая область</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>working copy</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>рабочая копия</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>patch</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>патч</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>внешний, удалённый</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>объединение, уплотнение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>script</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сценарий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>каталог</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote-tracking [branch]</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отслеживаемая внешняя [ветка]</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cherry-pick</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>копировать коммит, отобрать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fast-forward</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>перемотка вперёд, быстрая перемотка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hash (adverb)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>хеш-код</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hash (noun)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>хеш-функция</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>committed</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>зафиксирован, закоммичен</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>рабочая копия, рабочий каталог</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

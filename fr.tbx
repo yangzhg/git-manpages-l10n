@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>patch</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>rustine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>étiquette</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pretty print</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>mise en forme</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>DETACHED HEAD</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>HEAD DÉTACHÉE</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>superposition</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stash</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>remiser, remisage</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pattern</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>motif</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tagname</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>nom-d-étiquette</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>committer</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>validateur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>keyid</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>id-clé</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;tagname&gt;</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;nom-d-étiquette&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>commit-esque</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sparse checkout</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>extraction partielle</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shallow</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>superficiel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>a remote</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>un dépôt distant</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>to rebase</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>rebaser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>historique</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>edge</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>arête</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>worktree</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>arbre de travail</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bare repo</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>dépôt nu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>TREESAME</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>MEMEARBRE</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>distant</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>récupérer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>validation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hunk</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>section</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>
