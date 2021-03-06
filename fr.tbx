@@ -162,6 +162,10 @@
                 <langSet xml:lang="en"><tig><term>patch</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>rustine</term></tig></langSet>
             </termEntry>
+            <termEntry id="6">
+                <langSet xml:lang="en"><tig><term>patch</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>rustine</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
