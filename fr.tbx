@@ -110,6 +110,10 @@
                 <langSet xml:lang="en"><tig><term>hunk</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>section</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>patch</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>rustine</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
