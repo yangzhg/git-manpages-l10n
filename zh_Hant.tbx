@@ -34,6 +34,10 @@
                 <langSet xml:lang="en"><tig><term>option</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>選項</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>-p</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>-p</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
