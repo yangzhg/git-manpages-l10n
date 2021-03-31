@@ -570,6 +570,10 @@
                 <langSet xml:lang="en"><tig><term>Interactive mode</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Интерактивный режим, ручной режим</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>-p</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>-p</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
