@@ -14,6 +14,10 @@
                 <langSet xml:lang="en"><tig><term>type: Plain text</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>type: Plain text</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>-p</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>-p</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
