@@ -298,6 +298,10 @@
                 <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>espaço</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>-p</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>-p</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
