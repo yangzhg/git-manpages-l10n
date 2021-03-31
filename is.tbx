@@ -702,6 +702,10 @@
                 <langSet xml:lang="en"><tig><term>rewrite</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>endurskrifa</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>-p</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>-p</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
