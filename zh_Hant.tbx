@@ -38,6 +38,14 @@
                 <langSet xml:lang="en"><tig><term>-p</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>-p</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>SSH:256</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>log.showSignature</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
