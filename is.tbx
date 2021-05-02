@@ -599,10 +599,6 @@
                 <langSet xml:lang="is"><tig><term>ómeðvitaður um skráasafnið</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>run</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>framkvæma</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>environment</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>umhverfi</term></tig></langSet>
             </termEntry>
