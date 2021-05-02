@@ -708,11 +708,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSH:256</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+                <langSet xml:lang="is"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>log.showSignature</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+                <langSet xml:lang="is"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>run</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>framkvæma</term></tig></langSet>
             </termEntry>
         </body>
     </text>
