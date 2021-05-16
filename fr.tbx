@@ -190,6 +190,14 @@
                 <langSet xml:lang="en"><tig><term>commit message</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>message de validation</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hash</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>empreinte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>arbre-esque</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
