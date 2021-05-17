@@ -198,6 +198,10 @@
                 <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>arbre-esque</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>sparse checkout</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>extraction partielle</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
