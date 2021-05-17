@@ -202,6 +202,10 @@
                 <langSet xml:lang="en"><tig><term>sparse checkout</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>extraction partielle</term></tig></langSet>
             </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>sparse checkout</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>extraction clairsemée</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
