@@ -310,6 +310,10 @@
                 <langSet xml:lang="en"><tig><term>log.showSignature</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>log.showSignature</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stashed</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>acumuladas</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
