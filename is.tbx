@@ -714,6 +714,18 @@
                 <langSet xml:lang="en"><tig><term>run</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>framkvæma</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>config</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>stillingaskrá</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>sjálfgefinn</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>override</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>ógilda</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
