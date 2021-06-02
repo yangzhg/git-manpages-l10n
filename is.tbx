@@ -155,10 +155,6 @@
                 <langSet xml:lang="is"><tig><term>slóð</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>operation</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>aðgerð</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>mode</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>fyrirkomulag</term></tig></langSet>
             </termEntry>
