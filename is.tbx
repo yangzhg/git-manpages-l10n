@@ -408,7 +408,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>draga</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>toga</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
@@ -700,11 +700,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSH:256</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>SSH:256</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>log.showSignature</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>log.showSignature</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>run</term></tig></langSet>
