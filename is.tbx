@@ -722,6 +722,14 @@
                 <langSet xml:lang="en"><tig><term>override</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>ógilda</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>argument</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>breyta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file system</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>skráakerfi</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
