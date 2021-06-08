@@ -158,6 +158,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>mode</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>fyrirkomulag</term></tig></langSet>
+                <note from="translator">eða háttur</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hunk</term></tig></langSet>
