@@ -183,10 +183,6 @@
                 <langSet xml:lang="fr"><tig><term>SSH:256</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>log.showSignature</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>commit message</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>message de validation</term></tig></langSet>
             </termEntry>
