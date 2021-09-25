@@ -98,6 +98,34 @@
                 <langSet xml:lang="en"><tig><term>DESCRIPTION</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>説明</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>*NOTE*</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>*注意*</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>local machine</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ローカルマシーン</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>master branch</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>マスターブランチ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote-tracking</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>リモートトラッキング</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>クローン</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ディレクトリ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>リポジトリ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
