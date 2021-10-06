@@ -260,27 +260,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>local machine</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>master branch</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remote-tracking</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>topic branch</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>branche thématique</term></tig></langSet>
             </termEntry>
         </body>
     </text>
