@@ -150,6 +150,10 @@
                 <langSet xml:lang="en"><tig><term>mismerges</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>誤ったマージ</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sparse-checkout cone</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
