@@ -166,6 +166,10 @@
                 <langSet xml:lang="en"><tig><term>dry-run</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>dry-run</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shallow clone</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>シャロークローン</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
