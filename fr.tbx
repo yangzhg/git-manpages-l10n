@@ -282,6 +282,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>répertoire</term></tig></langSet>
+                <note from="translator">https://doc.ubuntu-fr.org/tutoriel/console_ligne_de_commande</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
