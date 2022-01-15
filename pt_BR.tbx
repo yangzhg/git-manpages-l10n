@@ -1114,6 +1114,10 @@
                 <langSet xml:lang="en"><tig><term>combined diff</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>diff combinado</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Stash</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Empilhar, armazenamento, estoque</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
