@@ -312,7 +312,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>stashed</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>acumuladas</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>arquivos que foram armazenados, acumulados</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>squashed</term></tig></langSet>
@@ -1116,7 +1116,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Stash</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>Empilhar, armazenamento, estoque</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Arquivos armazenados, empilhar, armazenamento, estoque</term></tig></langSet>
             </termEntry>
         </body>
     </text>
