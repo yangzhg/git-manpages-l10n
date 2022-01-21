@@ -1118,6 +1118,10 @@
                 <langSet xml:lang="en"><tig><term>Stash</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Arquivos armazenados, empilhar, armazenamento, estoque</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>envio, impulsionar, impulsionamento</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
