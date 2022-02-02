@@ -576,55 +576,55 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>commit-ish</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone (verb)</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>克隆(动词)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone (noun)</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>克隆(名词)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check out</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>签出到/切换分支/</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changeset</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>变更集</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blame</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>blame</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare clone</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>裸克隆</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>author date</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>创建日期</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>a remote</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>一个远程仓库</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>local machine</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>本地设备</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>master branch</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>主分支</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remote-tracking</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>远程跟踪</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>目录</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-commit[1]</term></tig></langSet>
@@ -1309,6 +1309,10 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>钩子</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>combined diff</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>合并差异</term></tig></langSet>
             </termEntry>
         </body>
     </text>
