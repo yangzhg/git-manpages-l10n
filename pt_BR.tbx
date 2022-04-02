@@ -1122,6 +1122,14 @@
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>envio, impulsionar, impulsionamento</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>content to be committed</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
