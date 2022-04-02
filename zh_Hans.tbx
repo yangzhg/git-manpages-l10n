@@ -1314,6 +1314,14 @@
                 <langSet xml:lang="en"><tig><term>combined diff</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>合并差异</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>content to be committed</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>要提交的内容</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>；</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
