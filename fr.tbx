@@ -89,6 +89,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>worktree</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>arbre-de-travail</term></tig></langSet>
+                <note from="translator">Do not mix with "working tree" which is translated as "arbre de travail" (without dashes)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare repo</term></tig></langSet>
