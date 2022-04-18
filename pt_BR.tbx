@@ -124,7 +124,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>pai, matriz, origem</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>principal, matriz, origem, pai</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Unregister</term></tig></langSet>
