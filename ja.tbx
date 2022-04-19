@@ -874,6 +874,30 @@
                 <langSet xml:lang="en"><tig><term>content to be committed</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>コミットされる内容</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ort</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>heuristic</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>発見的解決法</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comma</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>カンマ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>destination</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>宛先</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>-p</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
