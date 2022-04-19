@@ -884,7 +884,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>comma</term></tig></langSet>
@@ -893,10 +893,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>destination</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>宛先</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>-p</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>
