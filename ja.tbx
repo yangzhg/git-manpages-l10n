@@ -132,11 +132,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>author name</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>執筆者の名称</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>著作者の名称</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>author email</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>執筆者のメール</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>著作者のメール</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>committer name</term></tig></langSet>
@@ -876,7 +876,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>content to be committed</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>コミットされる内容</term></tig></langSet>
             </termEntry>
         </body>
     </text>
