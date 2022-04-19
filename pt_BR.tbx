@@ -1134,6 +1134,18 @@
                 <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>vínculo, vinculada</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e.g.</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>por exemplo.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>capabilities</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>recursos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>padded</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>enchimento, preenchimento, calço</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
