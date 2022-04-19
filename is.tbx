@@ -1472,10 +1472,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>content to be committed</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+                <langSet xml:lang="is"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
