@@ -890,6 +890,14 @@
                 <langSet xml:lang="en"><tig><term>destination</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>宛先</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration settings</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>構成設定</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration setting</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>構成設定</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
