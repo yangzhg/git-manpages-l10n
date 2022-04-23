@@ -232,7 +232,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare repository</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>dépôt nu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare clone</term></tig></langSet>
@@ -988,7 +988,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
