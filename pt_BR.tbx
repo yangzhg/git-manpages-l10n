@@ -1154,6 +1154,10 @@
                 <langSet xml:lang="en"><tig><term>populated</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>colonizado, divulgado, que foi divulgado</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>entry</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>lançamento, entrada</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
