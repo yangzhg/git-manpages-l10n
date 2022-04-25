@@ -898,6 +898,10 @@
                 <langSet xml:lang="en"><tig><term>configuration setting</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>構成設定</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;file&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;ファイル&gt;</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
