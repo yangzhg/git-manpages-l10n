@@ -990,6 +990,10 @@
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tip</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>sommet</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
