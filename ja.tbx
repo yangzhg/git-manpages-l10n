@@ -910,6 +910,30 @@
                 <langSet xml:lang="en"><tig><term>&lt;revision&gt;</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>&lt;リビジョン&gt;</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>パック</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>インデックス</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;repository&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;リポジトリ&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;upload-pack&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;アップロードするパック&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;name&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;名前&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;URL&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;URL&gt;</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
