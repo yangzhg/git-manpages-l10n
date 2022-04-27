@@ -994,6 +994,14 @@
                 <langSet xml:lang="en"><tig><term>tip</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>sommet</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
