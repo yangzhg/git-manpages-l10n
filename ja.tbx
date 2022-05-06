@@ -934,6 +934,26 @@
                 <langSet xml:lang="en"><tig><term>&lt;URL&gt;</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>&lt;URL&gt;</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>alternate object database</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>代替オブジェクトデータベース</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>オブジェクト</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>object database</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>オブジェクトデータベース</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>blob</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ブロブ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ブランチ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
