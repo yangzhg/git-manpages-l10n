@@ -1328,10 +1328,22 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>alternate object database</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>object database</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
