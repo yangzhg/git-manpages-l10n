@@ -836,14 +836,22 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
                 <langSet xml:lang="sk"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
