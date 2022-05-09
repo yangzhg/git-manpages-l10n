@@ -579,6 +579,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>commit-ish</term></tig></langSet>
+                <note from="translator">导向提交对象的标识符</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone (verb)</term></tig></langSet>
@@ -591,6 +592,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check out</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>签出到/切换分支/</term></tig></langSet>
+                <note from="translator">使用`git checkout`或其他命令切换当前分支</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changeset</term></tig></langSet>
@@ -599,6 +601,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blame</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>历史追溯</term></tig></langSet>
+                <note from="translator">git使用blame命令查询某文件或某文件部分的修改历史</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare clone</term></tig></langSet>
@@ -1329,6 +1332,8 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>ort</term></tig></langSet>
+                <note from="translator">ort是一项合并策略，是recursive策略的重构，拥有更好的性能和更完善的功能。</note>
+                <descrip>&gt; このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alternate object database</term></tig></langSet>
@@ -1337,6 +1342,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blob</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>blob</term></tig></langSet>
+                <note from="translator">git中一种对象类型，用以储存一般数据，如被追踪的文件</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
