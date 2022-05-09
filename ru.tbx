@@ -1348,10 +1348,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>chain</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
