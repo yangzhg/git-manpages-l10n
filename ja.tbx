@@ -974,6 +974,22 @@
                 <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>キャッシュ</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>chain</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>チェーン</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>changeset</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>チェンジセット</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parents</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>親</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>親</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
