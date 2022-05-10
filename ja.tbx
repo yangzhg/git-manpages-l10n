@@ -986,6 +986,18 @@
                 <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>親</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tree object</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ツリーオブジェクト</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cherry-picking</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>チェリーピッキング</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>jargon</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>専門用語</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
