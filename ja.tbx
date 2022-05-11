@@ -1006,6 +1006,22 @@
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>ヒストリー</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>SCM</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>SCM</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>clean</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>クリーン</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revision</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>リビジョン</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ダーティ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
