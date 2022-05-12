@@ -1348,6 +1348,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
