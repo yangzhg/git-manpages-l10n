@@ -868,26 +868,34 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cherry-picking</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree object</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SCM</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clean</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>revision</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
