@@ -1022,6 +1022,14 @@
                 <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>ダーティ</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>タグ</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>コミットの性質を持つもの</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
