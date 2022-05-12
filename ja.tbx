@@ -1030,6 +1030,26 @@
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>コミットの性質を持つもの</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>DAG</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>DAG</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dangling object</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ダングリングオブジェクト</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unreachable object</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>到達不能オブジェクト</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reachable</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>到達可能</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>directed acyclic graph</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>有向非巡回グラフ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
