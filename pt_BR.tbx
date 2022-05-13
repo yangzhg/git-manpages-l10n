@@ -1252,10 +1252,22 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fast-forward</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file system</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Linus Torvalds</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
