@@ -1564,6 +1564,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fast-forward</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Linus Torvalds</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
