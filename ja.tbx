@@ -1058,6 +1058,22 @@
                 <langSet xml:lang="en"><tig><term>fast-forward</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>早送り</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file system</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ファイルシステム</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Linus Torvalds</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>リーナス・トーバルズ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>フェッチ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>参照</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
