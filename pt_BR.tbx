@@ -1564,6 +1564,14 @@
                 <langSet xml:lang="en"><tig><term>features</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>recursos</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>upstream</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>linkgit:git-commit[1]</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>linkgit:git-commit[1]</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
