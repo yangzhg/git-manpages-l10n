@@ -1126,10 +1126,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>content to be committed</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>o conteúdo que será feito o commit</term></tig></langSet>
+                <descrip>commit 在git中是提交的意思</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>;</term></tig></langSet>
+                <descrip>中文分号</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
@@ -1150,6 +1152,8 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>ort</term></tig></langSet>
+                <note from="translator">O nome deste algoritmo é um acrônimo ("Ostensibly Recursive's Twin") e deriva do fato de ter sido escrito como um substituto do algoritmo recursivo anterior.</note>
+                <descrip>&gt; このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>populated</term></tig></langSet>
@@ -1162,6 +1166,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>pacote</term></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpackapack</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alternate object database</term></tig></langSet>
@@ -1226,6 +1231,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>tag</term></tig></langSet>
+                <note from="translator">marcação, etiqueta</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
@@ -1238,6 +1244,8 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>DAG</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>DAG</term></tig></langSet>
+                <note from="translator">gráfico acíclico dirigido</note>
+                <descrip>Directed Acyclic Graph</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dangling object</term></tig></langSet>
@@ -1270,6 +1278,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>ref</term></tig></langSet>
+                <note from="translator">Referência</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Git</term></tig></langSet>
@@ -1302,22 +1311,27 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object type</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>tipo do objeto</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>árvore</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>polvo</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>origem</term></tig></langSet>
+                <descrip>glossary: default name of upstream repository.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>sobreposição</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
@@ -1523,6 +1537,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tags</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>etiquetas</term></tig></langSet>
+                <note from="translator">Rótulos são bem maiores que as etiquetas.</note>
             </termEntry>
         </body>
     </text>
