@@ -956,6 +956,18 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>grafts</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>object name</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
