@@ -1074,6 +1074,10 @@
                 <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>参照</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Git</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>Git</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
