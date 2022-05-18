@@ -1082,6 +1082,22 @@
                 <langSet xml:lang="en"><tig><term>grafts</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>移植</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>packed ref</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>固めた参照</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>分離したHEAD</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>object name</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>オブジェクト名</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>フック</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
