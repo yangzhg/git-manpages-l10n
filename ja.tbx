@@ -1078,6 +1078,10 @@
                 <langSet xml:lang="en"><tig><term>Git</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>Git</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>grafts</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>移植</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
