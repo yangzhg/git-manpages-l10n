@@ -1416,6 +1416,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>grafts</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>object name</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
