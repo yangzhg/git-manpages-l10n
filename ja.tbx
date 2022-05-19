@@ -873,6 +873,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>content to be committed</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>コミットされる内容</term></tig></langSet>
+                <descrip>commit 在git中是提交的意思</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
@@ -912,6 +913,8 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;revision&gt;</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>&lt;リビジョン&gt;</term></tig></langSet>
+                <note from="translator">コミットやコミットを示すブランチ、タグなどを包括した文言。Gitの用語集においては commit の同義語。</note>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefrevisionarevision</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
@@ -947,6 +950,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>オブジェクト</term></tig></langSet>
+                <note from="translator">Git におけるストレージの単位</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object database</term></tig></langSet>
@@ -967,6 +971,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>ヘッド</term></tig></langSet>
+                <note from="translator">ブランチの先頭を意味する場面において。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
@@ -975,6 +980,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>HEAD</term></tig></langSet>
+                <note from="translator">現在リポジトリが指し示すブランチ。ワーキングツリーが関連付けられているブランチを指し示すモノの固有名詞。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
@@ -1003,14 +1009,18 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>jargon</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>専門用語</term></tig></langSet>
+                <note from="translator">これは批判的な意味合いを含む。専門用語という訳が適切なのは `technical term`。</note>
+                <descrip>ジャーゴン。特定の集団の中だけで通じる言葉。専門的な隠語。</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>jargon</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>集団の中だけで通じる言葉</term></tig></langSet>
+                <note from="translator">ジャーゴン。特定の集団の中だけで通じる言葉。専門的な隠語。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>ヒストリー</term></tig></langSet>
+                <descrip>Gitの固有名詞として。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SCM</term></tig></langSet>
@@ -1112,6 +1122,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>master</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>master</term></tig></langSet>
+                <note from="translator">Git のデフォルトブランチとして。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
