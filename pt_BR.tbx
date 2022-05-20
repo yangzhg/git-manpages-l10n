@@ -1292,7 +1292,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index entry</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>entrada do índice</term></tig></langSet>
             </termEntry>
         </body>
     </text>
