@@ -1388,6 +1388,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>index entry</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
