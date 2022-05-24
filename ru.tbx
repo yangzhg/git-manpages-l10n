@@ -1424,6 +1424,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index entry</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>SHA-1</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
