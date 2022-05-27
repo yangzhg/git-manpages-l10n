@@ -1126,6 +1126,18 @@
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>タコ足</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>origin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>オーバーレイ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ツリーの性質を持つもの</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
