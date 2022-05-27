@@ -972,14 +972,26 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object type</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
