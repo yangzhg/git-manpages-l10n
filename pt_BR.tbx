@@ -1312,14 +1312,18 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
