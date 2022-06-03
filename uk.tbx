@@ -800,6 +800,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>пакунок</term></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpackapack</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
@@ -829,6 +830,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>коміт</term></tig></langSet>
+                <note from="translator">? внесок, зміна, подання</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
@@ -971,6 +973,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>дерево</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
@@ -980,6 +983,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>першоджерело</term></tig></langSet>
+                <descrip>glossary: default name of upstream repository.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
