@@ -88,7 +88,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>клонувати</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
@@ -796,7 +796,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>пакунок</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
@@ -820,11 +820,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>гілка</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>коміт</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
@@ -840,11 +840,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>кеш</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>chain</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>ланка</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
@@ -864,7 +864,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clean</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>очистити</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>revision</term></tig></langSet>
@@ -876,7 +876,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>мітка</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
@@ -904,7 +904,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>злиття</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fast-forward</term></tig></langSet>
@@ -912,7 +912,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file system</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>файлова система</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Linus Torvalds</term></tig></langSet>
@@ -928,7 +928,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Git</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Git</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>grafts</term></tig></langSet>
@@ -964,7 +964,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>дерево</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
@@ -972,7 +972,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>першоджерело</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
@@ -984,7 +984,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>combined diff</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>комбінована різниця</term></tig></langSet>
             </termEntry>
         </body>
     </text>
