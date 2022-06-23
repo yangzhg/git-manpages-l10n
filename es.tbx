@@ -873,10 +873,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>;</term></tig></langSet>
+                <descrip>中文分号</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>ort</term></tig></langSet>
+                <descrip>&gt; このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
@@ -1021,6 +1023,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object type</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>tipo de objeto</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
@@ -1029,10 +1032,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>pulpo</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>origen</term></tig></langSet>
+                <descrip>glossary: default name of upstream repository.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
@@ -1076,7 +1081,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tags</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
