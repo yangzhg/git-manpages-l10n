@@ -1326,6 +1326,10 @@
                 <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>pathspec</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>basename</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>nome principal</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
