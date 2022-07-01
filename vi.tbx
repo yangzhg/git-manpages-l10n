@@ -36,11 +36,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SHA-1</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>SHA-1</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree object</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>đối tượng cây</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file system</term></tig></langSet>
@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>kho</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
@@ -200,7 +200,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>thẻ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
@@ -224,7 +224,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remote-tracking</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>nhánh từ xa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
@@ -428,7 +428,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unreachable object</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>đối tượng không thể tác động</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reachable</term></tig></langSet>
@@ -924,11 +924,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSH:256</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>SSH:256</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>revision</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>phiên bản</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
@@ -936,7 +936,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SCM</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>SCM</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
@@ -956,7 +956,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>cây</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
@@ -972,11 +972,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>giống cây</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
