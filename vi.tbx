@@ -228,6 +228,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remote-tracking</term></tig></langSet>
                 <langSet xml:lang="vi"><tig><term>nhánh từ xa</term></tig></langSet>
+                <note from="translator">Nhánh này xuất hiện ở trên kho</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
@@ -962,6 +963,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
                 <langSet xml:lang="vi"><tig><term>cây</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
