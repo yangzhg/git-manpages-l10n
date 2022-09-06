@@ -1166,6 +1166,14 @@
                 <langSet xml:lang="en"><tig><term>worktree</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>ワークツリー</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pseudoref</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>疑似参照</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reflog</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>参照ログ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
