@@ -996,6 +996,22 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pickaxe</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plumbing</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>per-worktree ref</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>worktree</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
