@@ -1142,6 +1142,30 @@
                 <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>パススペック</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>attribute requirements</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>属性要件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pickaxe</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>つるはし</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plumbing</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>配管</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>porcelain</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>磁器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>per-worktree ref</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ワークツリーごとの参照</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>worktree</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ワークツリー</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
