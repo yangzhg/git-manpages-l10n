@@ -1444,10 +1444,26 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pickaxe</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plumbing</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>per-worktree ref</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>worktree</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
