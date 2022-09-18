@@ -1352,11 +1352,27 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudoref</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reflog</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>scope</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>escopo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>DEPRECATED</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>DESCONTINUADO</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>three way</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>três vias</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>caveats</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>ressalvas</term></tig></langSet>
             </termEntry>
         </body>
     </text>
