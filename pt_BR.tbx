@@ -1374,6 +1374,10 @@
                 <langSet xml:lang="en"><tig><term>caveats</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>ressalvas</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailers</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>caracteres de resposta</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
