@@ -1378,6 +1378,10 @@
                 <langSet xml:lang="en"><tig><term>trailers</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>caracteres de resposta</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conflicted file info</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>informação do arquivo em conflito</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
