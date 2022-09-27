@@ -1382,6 +1382,18 @@
                 <langSet xml:lang="en"><tig><term>conflicted file info</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>informação do arquivo em conflito</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>OIDTLT,OID of toplevel tree</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>OIDTLT,OID do cume da árvore</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Informational messages</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>mensagens informacionais</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>NEWMERGE,DESCRIPTION</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>NEWMERGE,DESCRIÇÃO</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
