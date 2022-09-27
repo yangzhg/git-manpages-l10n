@@ -1394,6 +1394,10 @@
                 <langSet xml:lang="en"><tig><term>NEWMERGE,DESCRIPTION</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>NEWMERGE,DESCRIÇÃO</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stash</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>estoque</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
