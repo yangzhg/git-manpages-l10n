@@ -1462,6 +1462,14 @@
                 <langSet xml:lang="en"><tig><term>pruned objects</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>objetos podados</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>socket-path</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>caminho-do-socket</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>git-dir</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>diretório-do-git</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
