@@ -1414,6 +1414,54 @@
                 <langSet xml:lang="en"><tig><term>commit graph</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>commit gráfico</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>common-diff-options</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>opções-comuns-do-diff</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Merge status</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Condição da mesclagem</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>list-of-paths</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>lista-dos-caminhos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>toplevel tree</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>cume da árvore</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conflict-type</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>tipo-do-conflito</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conflict-message</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>mensagem-do-conflito</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>number-of-paths</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>quantidade-dos-caminhos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stable-short-type-description</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>descrição-tipo-curta-e-estável</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pack-filename</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>nome-do-arquivo-pacote</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>by default</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>é predefinido que</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>log-option</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>opções-do-log</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pruned objects</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>objetos podados</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
