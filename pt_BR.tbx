@@ -1410,6 +1410,10 @@
                 <langSet xml:lang="en"><tig><term>over-the-wire</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>abordagem detalhada</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit graph</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>commit gráfico</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
