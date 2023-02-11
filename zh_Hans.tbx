@@ -355,10 +355,6 @@
                 <langSet xml:lang="zh_Hans"><tig><term>重新应用</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>引用</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>reference</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>引用</term></tig></langSet>
             </termEntry>
