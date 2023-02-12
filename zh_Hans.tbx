@@ -204,7 +204,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>抓取</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>获取</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fork</term></tig></langSet>
@@ -1340,7 +1340,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cherry-picking</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>拾取</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>拣选</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
