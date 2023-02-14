@@ -1446,6 +1446,34 @@
                 <langSet xml:lang="en"><tig><term>reachability bitmaps</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>可达性位图</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote repository</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>远程仓库</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shallow clone</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>浅克隆</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shallow repository</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>浅仓库</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stash entry</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>贮藏项</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>superproject</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>父工程</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>index entries</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>索引项</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
