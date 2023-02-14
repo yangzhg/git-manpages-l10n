@@ -1404,7 +1404,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>树对象</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>树状对象</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pickaxe</term></tig></langSet>
