@@ -1426,10 +1426,6 @@
                 <langSet xml:lang="en"><tig><term>pager</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>分页器</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>引用</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>evil merge</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>坏合并（合并引入了父提交没有的修改）(evil merge)</term></tig></langSet>
@@ -1452,7 +1448,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>shallow clone</term></tig></langSet>
