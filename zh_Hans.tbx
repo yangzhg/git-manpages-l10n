@@ -1450,10 +1450,6 @@
                 <langSet xml:lang="en"><tig><term>reachability bitmaps</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>可达性位图</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
