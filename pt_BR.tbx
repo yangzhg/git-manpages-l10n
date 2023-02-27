@@ -1490,6 +1490,30 @@
                 <langSet xml:lang="en"><tig><term>untracked cache</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>cache sem rastreio</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>espaço reservado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>texto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>BATCH OUTPUT</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>SAÍDA DO LOTE</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>staged</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>preparada</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unstaged</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>não preparada</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>status</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>condição geral</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
