@@ -1470,6 +1470,26 @@
                 <langSet xml:lang="en"><tig><term>git-dir</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>diretório-do-git</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tip of the current branch</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>o cume do ramo atual</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>sinalizar, sinalização, indicação</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>see</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>consulte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>see also</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>consulte também</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>untracked cache</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>cache sem rastreio</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
