@@ -1508,7 +1508,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unstaged</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>não preparada</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>não preparada, não processada</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>status</term></tig></langSet>
