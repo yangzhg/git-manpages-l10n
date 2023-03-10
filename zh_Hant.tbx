@@ -1028,10 +1028,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudoref</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reflog</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>[[def_clean]]clean</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
