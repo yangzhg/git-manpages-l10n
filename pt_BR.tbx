@@ -1514,6 +1514,10 @@
                 <langSet xml:lang="en"><tig><term>status</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>condição geral</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>[[def_clean]]clean</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
