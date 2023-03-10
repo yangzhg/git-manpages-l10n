@@ -1470,6 +1470,10 @@
                 <langSet xml:lang="en"><tig><term>index entries</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>索引项</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>[[def_clean]]clean</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>一个&lt;&lt;def_object,对象 &gt;&gt;包含了关于某个特定&lt;&lt;def_revision,版本&gt;&gt;的信息，例如&lt;&lt;def_parent,父提交&gt;&gt;、提交者、作者、日期和&lt;&lt;def_tree_object, 树对象&gt;&gt;（对应于保存的版本顶部&lt;&lt;def_directory,目录&gt;&gt;）。</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
