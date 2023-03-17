@@ -1478,6 +1478,58 @@
                 <langSet xml:lang="en"><tig><term>glob</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>通配符</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>msg</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>消息</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>文件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>newbranch</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>新分支</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>oldbranch</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>旧分支</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>path</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>路径</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>author</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>提交人</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>date</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>日期</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>value</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>值</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>令牌</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mode</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>模式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unmerged</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>未合并</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>options</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>选项</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>key</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>键</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
