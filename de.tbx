@@ -1108,6 +1108,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>[[def_clean]]clean</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tags</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
