@@ -1520,7 +1520,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tags</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>etiquetas</term></tig></langSet>
             </termEntry>
         </body>
     </text>
