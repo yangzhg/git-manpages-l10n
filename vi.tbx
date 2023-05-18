@@ -20,11 +20,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object database</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>cơ sở dữ liệu đối tượng</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object name</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>tên đối tượng</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
@@ -80,7 +80,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>đối tượng</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare repository</term></tig></langSet>
@@ -88,7 +88,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-push[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-push[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
@@ -116,43 +116,43 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-cvsserver[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-cvsserver[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-show[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-show[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitrepository-layout[5]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitrepository-layout[5]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-symbolic-ref[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-symbolic-ref[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-pull[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-pull[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-reset[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-reset[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-rebase[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-rebase[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:giteveryday[7]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:giteveryday[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-sparse-checkout[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-sparse-checkout[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-mktag[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-mktag[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-check-ref-format[1]</term></tig></langSet>
@@ -160,11 +160,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-get-tar-commit-id[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-get-tar-commit-id[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-ls-tree[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-ls-tree[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-checkout-index[1]</term></tig></langSet>
@@ -300,15 +300,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-remote[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-remote[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-merge-tree[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-merge-tree[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-verify-tag[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-verify-tag[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-bisect[1]</term></tig></langSet>
@@ -316,7 +316,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-commit[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-commit[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-difftool[1]</term></tig></langSet>
@@ -324,7 +324,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-instaweb[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-instaweb[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-bugreport[1]</term></tig></langSet>
@@ -336,71 +336,71 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-show-branch[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-show-branch[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-fast-import[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-fast-import[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-fsck[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-fsck[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-whatchanged[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-whatchanged[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-replace[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-replace[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-quiltimport[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-quiltimport[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-clean[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-clean[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-range-diff[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-range-diff[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-help[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-help[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-rerere[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-rerere[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-verify-commit[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-verify-commit[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-reflog[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-reflog[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-config[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-config[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-svn[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-svn[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-notes[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-notes[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-fast-export[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-fast-export[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-repack[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-repack[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-describe[1]</term></tig></langSet>
@@ -408,7 +408,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-read-tree[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-read-tree[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-cvsimport[1]</term></tig></langSet>
@@ -416,11 +416,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-request-pull[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-request-pull[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-revert[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-revert[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>DAG</term></tig></langSet>
@@ -440,31 +440,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitweb[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitweb[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-cvsexportcommit[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-cvsexportcommit[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-mergetool[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-mergetool[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-send-email[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-send-email[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-pack-refs[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-pack-refs[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-filter-branch[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-filter-branch[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-prune[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-prune[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-archimport[1]</term></tig></langSet>
@@ -472,15 +472,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-imap-send[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-imap-send[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-shortlog[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-shortlog[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gittutorial[7]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gittutorial[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-add[1]</term></tig></langSet>
@@ -492,11 +492,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-gc[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-gc[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-p4[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-p4[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-am[1]</term></tig></langSet>
@@ -508,19 +508,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-gui[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-gui[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-stash[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-stash[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-pack-objects[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-pack-objects[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitrevisions[7]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitrevisions[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-archive[1]</term></tig></langSet>
@@ -532,7 +532,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-citool[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-citool[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-checkout[1]</term></tig></langSet>
@@ -548,43 +548,43 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-fetch[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-fetch[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-format-patch[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-format-patch[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-mv[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-mv[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-name-rev[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-name-rev[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-interpret-trailers[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-interpret-trailers[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-multi-pack-index[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-multi-pack-index[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-clone[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-clone[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-grep[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-grep[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-for-each-ref[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-for-each-ref[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-merge[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-merge[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitdiffcore[7]</term></tig></langSet>
@@ -592,63 +592,63 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-prune-packed[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-prune-packed[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-init[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-init[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitmodules[5]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitmodules[5]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-verify-pack[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-verify-pack[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-log[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-log[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-mailsplit[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-mailsplit[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-merge-index[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-merge-index[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-column[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-column[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-http-fetch[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-http-fetch[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-unpack-objects[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-unpack-objects[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-update-index[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-update-index[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-worktree[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-worktree[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitk[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitk[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-update-ref[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-update-ref[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-diff-tree[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-diff-tree[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-cherry[1]</term></tig></langSet>
@@ -660,67 +660,67 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-receive-pack[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-receive-pack[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-fetch-pack[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-fetch-pack[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-status[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-status[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-submodule[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-submodule[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-ls-remote[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-ls-remote[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-rm[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-rm[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-restore[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-restore[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-tag[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-tag[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-switch[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-switch[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-ls-files[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-ls-files[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-merge-base[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-merge-base[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-pack-redundant[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-pack-redundant[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-rev-list[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-rev-list[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-rev-parse[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-rev-parse[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-show-index[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-show-index[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-show-ref[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-show-ref[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-cat-file[1]</term></tig></langSet>
@@ -728,11 +728,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-unpack-file[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-unpack-file[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-var[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-var[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-apply[1]</term></tig></langSet>
@@ -740,19 +740,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-hash-object[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-hash-object[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-commit-tree[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-commit-tree[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-commit-graph[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-commit-graph[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-index-pack[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-index-pack[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-check-ignore[1]</term></tig></langSet>
@@ -764,15 +764,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-fmt-merge-msg[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-fmt-merge-msg[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-write-tree[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-write-tree[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-merge-file[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-merge-file[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-check-mailmap[1]</term></tig></langSet>
@@ -780,19 +780,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-mailinfo[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-mailinfo[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-shell[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-shell[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-update-server-info[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-update-server-info[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-mktree[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-mktree[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-credential-cache[1]</term></tig></langSet>
@@ -800,11 +800,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-patch-id[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-patch-id[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-credential-store[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-credential-store[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-check-attr[1]</term></tig></langSet>
@@ -812,35 +812,35 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-merge-one-file[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-merge-one-file[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitignore[5]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitignore[5]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitnamespaces[7]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitnamespaces[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-upload-archive[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-upload-archive[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-stripspace[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-stripspace[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-sh-i18n[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-sh-i18n[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-sh-setup[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-sh-setup[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gittutorial-2[7]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gittutorial-2[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitattributes[5]</term></tig></langSet>
@@ -848,31 +848,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-http-push[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-http-push[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitremote-helpers[7]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitremote-helpers[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-send-pack[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-send-pack[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-for-each-repo[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-for-each-repo[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-maintenance[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-maintenance[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-http-backend[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-http-backend[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-upload-pack[1]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:git-upload-pack[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-daemon[1]</term></tig></langSet>
@@ -880,7 +880,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitworkflows[7]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitworkflows[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitcore-tutorial[7]</term></tig></langSet>
@@ -888,23 +888,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitcli[7]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitcli[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitmailmap[5]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitmailmap[5]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitsubmodules[7]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitsubmodules[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitcredentials[7]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitcredentials[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:githooks[5]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:githooks[5]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitcvs-migration[7]</term></tig></langSet>
@@ -912,11 +912,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitfaq[7]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitfaq[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitglossary[7]</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>linkgit:gitglossary[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git[1]</term></tig></langSet>
@@ -952,7 +952,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object type</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>loại đối tượng</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
@@ -1008,7 +1008,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tags</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
