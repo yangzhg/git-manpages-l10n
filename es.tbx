@@ -869,6 +869,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>content to be committed</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <descrip>commit 在git中是提交的意思</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
@@ -883,10 +884,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpackapack</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefindexaindex</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alternate object database</term></tig></langSet>
@@ -963,6 +966,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>DAG</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <descrip>Directed Acyclic Graph</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dangling object</term></tig></langSet>
@@ -1028,6 +1032,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
@@ -1042,6 +1047,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
