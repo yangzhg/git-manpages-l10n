@@ -877,6 +877,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>ort</term></tig></langSet>
+                <descrip>&gt; このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>heuristic</term></tig></langSet>
@@ -889,6 +890,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>destination</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>宛先</term></tig></langSet>
+                <descrip>sourceに対応する場面</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>configuration settings</term></tig></langSet>
@@ -901,6 +903,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;file&gt;</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>&lt;ファイル&gt;</term></tig></langSet>
+                <descrip>単体ファイルへのパスを示す場合</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;date&gt;</term></tig></langSet>
@@ -913,14 +916,17 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>パック</term></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpackapack</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>インデックス</term></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefindexaindex</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;repository&gt;</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>&lt;リポジトリ&gt;</term></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefrepositoryarepository</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;upload-pack&gt;</term></tig></langSet>
@@ -1033,6 +1039,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>DAG</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>DAG</term></tig></langSet>
+                <descrip>Directed Acyclic Graph</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dangling object</term></tig></langSet>
@@ -1117,22 +1124,27 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object type</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>オブジェクトタイプ</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>ツリー</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>タコ足</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>origin</term></tig></langSet>
+                <descrip>glossary: default name of upstream repository.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>オーバーレイ</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
@@ -1180,7 +1192,17 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tags</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>config</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>コンフィグ</term></tig></langSet>
+                <descrip>gitconfigを示す場合、カタカナ語にしたほうが通じやすいと考える。</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>UNIX epoch</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>UNIXエポック</term></tig></langSet>
+                <descrip>epochとは"新時代"を意味する。つまりUNIX 時代の始まりを意味する。(UTC)1970-01-01 00:00:00 のこと。</descrip>
             </termEntry>
         </body>
     </text>
