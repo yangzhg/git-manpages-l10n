@@ -29,10 +29,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>superposition</term></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>stash</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>remiser, remisage</term></tig></langSet>
+                <descrip>local onde se acumula uma pilha de objetos</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pattern</term></tig></langSet>
@@ -45,6 +47,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>committer</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>validateur</term></tig></langSet>
+                <descrip>pelaku?</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>keyid</term></tig></langSet>
@@ -77,6 +80,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>historique</term></tig></langSet>
+                <descrip>Gitの固有名詞として。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edge</term></tig></langSet>
@@ -185,6 +189,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit message</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>message de validation</term></tig></langSet>
+                <descrip>On différencie le terme nominal commit (non traduit) du verbe (valider, validation)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hash</term></tig></langSet>
@@ -977,10 +982,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>content to be committed</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <descrip>commit 在git中是提交的意思</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <descrip>中文分号</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>submodule</term></tig></langSet>
@@ -989,6 +996,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <descrip>&gt; このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tip</term></tig></langSet>
@@ -997,10 +1005,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpackapack</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefindexaindex</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alternate object database</term></tig></langSet>
@@ -1081,6 +1091,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>DAG</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <descrip>Directed Acyclic Graph</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dangling object</term></tig></langSet>
@@ -1149,18 +1160,22 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object type</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <descrip>glossary: default name of upstream repository.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
@@ -1189,6 +1204,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cover letter</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>lettre d'introduction</term></tig></langSet>
+                <descrip>utilisé pour git-send-email et consort</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>[[def_clean]]clean</term></tig></langSet>
@@ -1196,7 +1212,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tags</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
