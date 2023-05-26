@@ -1539,6 +1539,10 @@
                 <langSet xml:lang="pt_BR"><tig><term>etiquetas</term></tig></langSet>
                 <note from="translator">Rótulos são bem maiores que as etiquetas.</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>todo list</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>lista de tarefas</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
