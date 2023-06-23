@@ -1215,6 +1215,11 @@
                 <langSet xml:lang="ja"><tig><term>UNIXエポック</term></tig></langSet>
                 <descrip>epochとは"新時代"を意味する。つまりUNIX 時代の始まりを意味する。(UTC)1970-01-01 00:00:00 のこと。</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Interactively choose hunks of patch between the index and the work tree and add them to the index. This gives the user a chance to review the difference before adding modified contents to the index.</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+                <descrip>git</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
