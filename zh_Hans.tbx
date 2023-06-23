@@ -1562,8 +1562,13 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git[1]</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
                 <note from="translator">git(1)文档</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Interactively choose hunks of patch between the index and the work tree and add them to the index. This gives the user a chance to review the difference before adding modified contents to the index.</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>交互地在索引和工作树之间选择补丁块并将它们添加到索引中。这让用户有机会在将修改后的内容添加到索引之前查看差异。索引/索引/暂存区</term></tig></langSet>
+                <descrip>git</descrip>
             </termEntry>
         </body>
     </text>
