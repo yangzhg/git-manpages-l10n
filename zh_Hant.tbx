@@ -1058,6 +1058,10 @@
                 <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
                 <descrip>git</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
