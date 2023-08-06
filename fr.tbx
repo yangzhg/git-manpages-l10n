@@ -1225,6 +1225,10 @@
                 <langSet xml:lang="en"><tig><term>trailer</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>ligne terminale</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>paragraph-break</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>coupure-paragraphe</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
