@@ -250,7 +250,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>annotated tag</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>étiquette annotée</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>amend</term></tig></langSet>
