@@ -1128,8 +1128,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Interactively choose hunks of patch between the index and the work tree and add them to the index. This gives the user a chance to review the difference before adding modified contents to the index.</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
                 <descrip>git</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>literal formatting code</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>
