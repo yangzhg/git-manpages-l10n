@@ -1233,6 +1233,10 @@
                 <langSet xml:lang="en"><tig><term>DELTA ISLANDS</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>ÎLOTS DE DELTA</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>literal formatting code</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>code de formatage littéral</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
