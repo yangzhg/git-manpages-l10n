@@ -1570,6 +1570,10 @@
                 <langSet xml:lang="zh_Hans"><tig><term>交互地在索引和工作树之间选择补丁块并将它们添加到索引中。这让用户有机会在将修改后的内容添加到索引之前查看差异。索引/索引/暂存区</term></tig></langSet>
                 <descrip>git</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>literal formatting code</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
