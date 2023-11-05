@@ -1548,6 +1548,10 @@
                 <langSet xml:lang="pt_BR"><tig><term>Escolha interativamente pedaços do patch entre o índice, a árvore de trabalho e adicione-os ao índice. Isso dá ao usuário a chance de revisar a diferença antes de adicionar conteúdo modificado ao índice.</term></tig></langSet>
                 <descrip>git</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>literal formatting code</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
