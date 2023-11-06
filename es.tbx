@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untracked</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>no rastreado</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>sin seguimiento</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>raw</term></tig></langSet>
@@ -1002,7 +1002,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>grafts</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><tig><term>injertos</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
@@ -1096,7 +1096,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>literal formatting code</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
