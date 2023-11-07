@@ -1560,6 +1560,10 @@
                 <langSet xml:lang="en"><tig><term>if any</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>se houver</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>features</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>recursos</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
