@@ -1028,7 +1028,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>literal formatting code</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
