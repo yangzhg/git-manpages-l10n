@@ -2272,6 +2272,10 @@
                 <langSet xml:lang="en"><tig><term>prune</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>poda, remove</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>will be prompted for</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>será solicitado</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
