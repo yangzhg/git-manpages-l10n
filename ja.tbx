@@ -1933,6 +1933,83 @@
                 <langSet xml:lang="en"><tig><term>pattern</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>パターン</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Discussion</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>議論</term></tig></langSet>
+                <note from="translator">見出しとして</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;when&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;いつ&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;diff-options&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;diffのオプション&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;range1&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;範囲1&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;range2&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;範囲2&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;rev1&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;リビジョン1&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;rev2&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;リビジョン2&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;base&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;ベース&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;path&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;パス&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;command&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;コマンド&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;doc&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;ドキュメント&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;new-branch&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;新しいブランチ&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;start-point&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;開始点&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;style&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;スタイル&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;revision-range&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;リビジョン範囲&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;options&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;オプション&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>symref</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>シンボリック参照</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>submodules</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>サブモジュール</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>superprojects</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>親プロジェクト</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
