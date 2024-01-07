@@ -1821,14 +1821,131 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;patterns&gt;</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+                <langSet xml:lang="id"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;socket-path&gt;</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+                <langSet xml:lang="id"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;git-dir&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;key&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;value&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;remote&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;format&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;branch-name&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;permissions&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;transport&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;address&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;actual url base&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;other url base&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;unix-timestamp&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;time-zone-offset&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;tree-ish&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;tree-ish-1&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;tree-ish-2&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;pattern&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;sha1&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;n&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+                <note from="translator">パラメータにおける `n` は記号である（数量を意味することが多い）。</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;depth&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;template-directory&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;filter&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;uri&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;perm&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;sha1&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;option&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;pathspec&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;directory&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;filter-spec&gt;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;size&gt;</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
