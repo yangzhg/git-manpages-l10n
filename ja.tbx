@@ -2083,13 +2083,9 @@
                 <langSet xml:lang="en"><tig><term>&lt;pattern&gt;</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>&lt;パターン&gt;</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>&lt;sha1&gt;</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;n&gt;</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term/></tig></langSet>
                 <note from="translator">パラメータにおける `n` は記号である（数量を意味することが多い）。</note>
             </termEntry>
             <termEntry>
@@ -2114,7 +2110,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;sha1&gt;</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;option&gt;</term></tig></langSet>
