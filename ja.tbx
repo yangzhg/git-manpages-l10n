@@ -2132,6 +2132,55 @@
                 <langSet xml:lang="en"><tig><term>&lt;size&gt;</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>&lt;サイズ&gt;</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;mode&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;モード&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;number&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;数値&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;hash&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;ハッシュ&gt;</term></tig></langSet>
+                <note from="translator">コミットハッシュのこと</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;from-file-range&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;元ファイルの範囲&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;to-file-range&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;先ファイルの範囲&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;char&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;文字&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;text&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;テキスト&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;width&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;幅&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;name-width&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;名前幅&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;count&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;数える数&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>--color-moved-ws=&lt;modes&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>--color-moved-ws=&lt;modes&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;limit&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;制限&gt;</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
