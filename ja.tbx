@@ -2002,6 +2002,23 @@
                 <langSet xml:lang="en"><tig><term>symref</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>シンボリック参照</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;patterns&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;パターン&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;socket-path&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;ソケットパス&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;git-dir&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;gitディレクトリ&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CONFIGURATION</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>設定</term></tig></langSet>
+                <note from="translator">プログラムyaの文脈において</note>
+            </termEntry>
         </body>
     </text>
 </martif>
