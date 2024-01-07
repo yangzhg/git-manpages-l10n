@@ -2174,10 +2174,6 @@
                 <langSet xml:lang="ja"><tig><term>&lt;数える数&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>--color-moved-ws=&lt;modes&gt;</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>--color-moved-ws=&lt;modes&gt;</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;limit&gt;</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>&lt;制限&gt;</term></tig></langSet>
             </termEntry>
