@@ -2017,7 +2017,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CONFIGURATION</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>設定</term></tig></langSet>
-                <note from="translator">プログラムyaの文脈において</note>
+                <note from="translator">プログラムやソフトウェアの文脈において</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;key&gt;</term></tig></langSet>
