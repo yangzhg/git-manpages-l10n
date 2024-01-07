@@ -2019,6 +2019,123 @@
                 <langSet xml:lang="ja"><tig><term>設定</term></tig></langSet>
                 <note from="translator">プログラムyaの文脈において</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;key&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;キー&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;value&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;値&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;remote&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;リモート&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;format&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;フォーマット&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;branch-name&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;ブランチ名&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;permissions&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;パーミッション&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;transport&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;トランスポート&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;address&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;アドレス&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;actual url base&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;実際のURLベース&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;other url base&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;他のURLベース&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;unix-timestamp&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;UNIXタイムスタンプ&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;time-zone-offset&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;タイムゾーンオフセット&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;tree-ish&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;ツリー質&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;tree-ish-1&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;ツリー質1&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;tree-ish-2&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;ツリー質2&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;pattern&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;パターン&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;sha1&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;n&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+                <note from="translator">パラメータにおける `n` は記号である（数量を意味することが多い）。</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;depth&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;深さ&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;template-directory&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;テンプレートディレクトリ&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;filter&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;フィルタ&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;uri&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;uri&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;perm&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;パーミッション&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;sha1&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;option&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;オプション&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;pathspec&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;パススペック&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;directory&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;ディレクトリ&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;filter-spec&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;フィルタ仕様&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;size&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;サイズ&gt;</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
