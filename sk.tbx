@@ -1740,74 +1740,86 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;when&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;diff-options&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;range1&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;range2&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;rev1&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;rev2&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;base&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;path&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;command&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;doc&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;new-branch&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;start-point&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;style&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;revision-range&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;options&gt;</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>symref</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>submodules</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>superprojects</term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;patterns&gt;</term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;socket-path&gt;</term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;git-dir&gt;</term></tig></langSet>
                 <langSet xml:lang="sk"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
