@@ -975,7 +975,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>ワーキングツリー</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>作業ツリー</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
@@ -1159,7 +1159,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>ツリーの性質を持つもの</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ツリー質</term></tig></langSet>
+                <note from="translator">ツリーオブジェクト、あるいは再帰的に参照先をたどるとツリーオブジェクトへ到達するオブジェクト。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
@@ -1188,6 +1189,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>worktree</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>ワークツリー</term></tig></langSet>
+                <note from="translator">作業ツリー（working tree）とリポジトリのメタデータで構成される。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudoref</term></tig></langSet>
@@ -1217,7 +1219,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>literal formatting code</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>リテラルフォーマットコード</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-bisect[1]</term></tig></langSet>
@@ -1929,7 +1931,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>pattern</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>パターン</term></tig></langSet>
             </termEntry>
         </body>
     </text>
