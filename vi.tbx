@@ -1237,47 +1237,172 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;mode&gt;</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;number&gt;</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;hash&gt;</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
                 <note from="translator">コミットハッシュのこと</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;from-file-range&gt;</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;to-file-range&gt;</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;char&gt;</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;text&gt;</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;width&gt;</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;name-width&gt;</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;count&gt;</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;limit&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;modes&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;regex&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;kind&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;m&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <note from="translator">パラメータにおける `m` は記号である（数量を意味することが多い）。</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;num&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;string&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;object-id&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;orderfile&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;lines&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;prefix&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;keyid&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;strategy&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;commit&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;author&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;msg&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;token&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;type&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;start&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;end&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;funcname&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;full-commit-message&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;branch&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;key-id&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;refspec&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;group&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;git-upload-archive&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;version&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;parent-number&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;config-file&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;ref&gt;</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;object&gt;</term></tig></langSet>
                 <langSet xml:lang="vi"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
