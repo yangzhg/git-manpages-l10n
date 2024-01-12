@@ -2298,6 +2298,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;time&gt;</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;dir&gt;</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
