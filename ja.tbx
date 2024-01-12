@@ -2191,7 +2191,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;m&gt;</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term/></tig></langSet>
                 <note from="translator">パラメータにおける `m` は記号である（数量を意味することが多い）。</note>
             </termEntry>
             <termEntry>
@@ -2301,6 +2301,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;object&gt;</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>&lt;オブジェクト&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;time&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;時間&gt;</term></tig></langSet>
             </termEntry>
         </body>
     </text>
