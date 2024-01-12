@@ -2306,6 +2306,10 @@
                 <langSet xml:lang="en"><tig><term>&lt;time&gt;</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>&lt;時間&gt;</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;dir&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;ディレクトリ&gt;</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
