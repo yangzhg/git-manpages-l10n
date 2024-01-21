@@ -26,6 +26,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>检出</term></tig></langSet>
+                <note from="translator">简单的理解就是“选择”，比如选择某个分支、选择某次提交记录。效果上是切换当前位置（HEAD）</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
@@ -2336,7 +2337,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;key&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>&lt;key&gt;</term></tig></langSet>
+                <note from="translator">对于英文官方文档中的变量（通常是用尖括号包裹起来），并不推荐将其直接在尖括号中翻译成中文，而是通过描述的方式解释该变量。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;value&gt;</term></tig></langSet>
@@ -2627,7 +2629,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;dir&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
