@@ -2665,6 +2665,26 @@
                 <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>modelo</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>perder a referência, desreferenciar</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>perder a referência, desreferenciar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>diff driver</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>controlador do diff</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hunk</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>bloco, pedaço</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conversion outputs</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>os arquivo gerados</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
