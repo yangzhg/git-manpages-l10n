@@ -2310,6 +2310,26 @@
                 <langSet xml:lang="en"><tig><term>&lt;dir&gt;</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>&lt;ディレクトリ&gt;</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;message-id&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;メッセージID&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;subject-prefix&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;標題の接頭辞&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;replaced-sha1&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;置き換えられたsha1&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;branches-subdir&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;ブランチのサブディレクトリ&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;remote-name&gt;</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>&lt;リモートの名前&gt;</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
