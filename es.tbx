@@ -80,7 +80,9 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>encomendar</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>confirmación</term></tig></langSet>
+                <note from="translator">Como verbo: confirmar; como sustantivo: confirmación.&#13;
+Anteriormente se usó la traducción "encomendar" que generó inconvenientes para traducir consistentemente el sustantivo y el término commit-ish.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>-p</term></tig></langSet>
@@ -96,7 +98,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>cuasi-encomendar</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>confirmación-ismo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone (verb)</term></tig></langSet>
@@ -949,6 +951,7 @@ Como sustantivo: paquete</note>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clean</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>limpiar</term></tig></langSet>
+                <note from="translator">Como verbo: limpiar, como adjetivo: limpio.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>revision</term></tig></langSet>
