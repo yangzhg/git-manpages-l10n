@@ -875,7 +875,7 @@ Anteriormente se usó la traducción "encomendar" que generó inconvenientes par
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>;asi))</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>;</term></tig></langSet>
                 <note from="translator">iñobák</note>
                 <descrip>中文分号</descrip>
             </termEntry>
