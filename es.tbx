@@ -963,7 +963,8 @@ Como sustantivo: paquete</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><tig><term>símil-confirmación</term></tig></langSet>
+                <note from="translator">"Commit-ish" es un término que se refiere a un objeto de commit o a un objeto que puede ser referenciado de manera recursiva a un objeto de commit. Puede incluir objetos como: un objeto de commit directo, un objeto de etiqueta que apunta a un objeto de commit, un objeto de etiqueta que apunta a otro objeto de etiqueta que finalmente apunta a un objeto de commit, y así sucesivamente. Esencialmente, cualquier objeto que pueda ser seguido o dereferenciado hasta llegar a un commit es considerado un "commit-ish".</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>directed acyclic graph</term></tig></langSet>
