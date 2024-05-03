@@ -80,35 +80,35 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare repository</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>裸庫存儲庫</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare repo</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>裸庫倉庫</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare clone</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>裸庫克隆</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>author date</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;創作日期&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>annotated tag</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;帶註釋的標籤&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>amend</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;修正&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>3-way merge</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>三種方式合併</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>a remote</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>遙控器</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>local machine</term></tig></langSet>
@@ -128,7 +128,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>文件夾</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
@@ -821,7 +821,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>；</term></tig></langSet>
                 <descrip>中文分号</descrip>
             </termEntry>
             <termEntry>
@@ -836,12 +836,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>主頁</term></tig></langSet>
                 <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefindexaindex</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alternate object database</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>备用对象数据库</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object database</term></tig></langSet>
@@ -861,7 +861,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>頭部</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
@@ -869,7 +869,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>頭部</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
@@ -905,7 +905,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>不純淨的</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
@@ -942,7 +942,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file system</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>文件操作系統</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Linus Torvalds</term></tig></langSet>
@@ -950,7 +950,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>獲取</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
@@ -958,11 +958,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Git</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Git</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>grafts</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>移植</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
@@ -974,11 +974,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>鉤</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index entry</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>去向主頁</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
@@ -1836,11 +1836,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;git-dir&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;git-文件夾&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;key&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;鑰匙&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;value&gt;</term></tig></langSet>
@@ -1852,7 +1852,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;format&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;格式&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;branch-name&gt;</term></tig></langSet>
@@ -1868,11 +1868,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;address&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;地址&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;actual url base&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;實際網頁庫&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;other url base&gt;</term></tig></langSet>
@@ -1921,7 +1921,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;filter&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;滤波器&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;uri&gt;</term></tig></langSet>
@@ -1949,7 +1949,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;filter-spec&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;過濾器規格&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;size&gt;</term></tig></langSet>
@@ -1965,12 +1965,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;hash&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
-                <note from="translator">コミットハッシュのこと</note>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;哈希&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;from-file-range&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;在文件範圍內&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;to-file-range&gt;</term></tig></langSet>
@@ -1998,7 +1997,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;limit&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;限制&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;modes&gt;</term></tig></langSet>
@@ -2010,7 +2009,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;kind&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;類型&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;m&gt;</term></tig></langSet>
@@ -2035,7 +2034,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;lines&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;行&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;prefix&gt;</term></tig></langSet>
@@ -2043,7 +2042,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;keyid&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;鑰匙號碼&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;strategy&gt;</term></tig></langSet>
@@ -2055,7 +2054,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;author&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;著者&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;msg&gt;</term></tig></langSet>
@@ -2075,15 +2074,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;end&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;結束&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;funcname&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;函數名&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;full-commit-message&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;完整的確認消息&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;branch&gt;</term></tig></langSet>
@@ -2091,7 +2090,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;key-id&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;鑰匙號碼&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;refspec&gt;</term></tig></langSet>
@@ -2099,11 +2098,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;group&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;群&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;git-upload-archive&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>&lt;git-上傳歸檔&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;version&gt;</term></tig></langSet>
@@ -2135,19 +2134,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;message-id&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;subject-prefix&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;replaced-sha1&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;remote-name&gt;</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
