@@ -2330,6 +2330,10 @@
                 <langSet xml:lang="en"><tig><term>&lt;remote-name&gt;</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>&lt;リモートの名前&gt;</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>逆参照</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
