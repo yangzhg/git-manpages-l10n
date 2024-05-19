@@ -2188,6 +2188,10 @@ Como sustantivo: paquete</note>
                 <langSet xml:lang="en"><tig><term>&lt;remote-name&gt;</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>&lt;nombre-remoto&gt;</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
