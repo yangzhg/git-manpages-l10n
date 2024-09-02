@@ -2190,7 +2190,7 @@ Como sustantivo: paquete</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>desreferenciar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
