@@ -2192,24 +2192,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;m&gt;</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term/></tig></langSet>
-                <note from="translator">パラメータにおける `m` は記号である（数量を意味することが多い）。&#13;
-&#13;
-(added a side note)&#13;
-Seemingly, `&lt;m&gt;` comes from the following lines in `en` dir.&#13;
-&#13;
-the meagning of `&lt;m&gt;` is&#13;
-- "number of count" in `git-blame` and `diff-options`&#13;
-- a format specifier in `diff-options`&#13;
-  &#13;
-&#13;
-```&#13;
-en/git-status.txt:354:11:	    "S&lt;c&gt;&lt;m&gt;&lt;u&gt;" when the entry is a submodule.&#13;
-en/git-status.txt:356:6:	    &lt;m&gt; is "M" if it has tracked changes; otherwise ".".&#13;
-en/git-blame.txt:90:31:	abbreviated object name, use &lt;m&gt;+1 digits, where &lt;m&gt; is at&#13;
-en/git-blame.txt:90:51:	abbreviated object name, use &lt;m&gt;+1 digits, where &lt;m&gt; is at&#13;
-en/diff-options.txt:550:10:-B[&lt;n&gt;][/&lt;m&gt;]::&#13;
-en/diff-options.txt:551:26:--break-rewrites[=[&lt;n&gt;][/&lt;m&gt;]]::&#13;
-```</note>
+                <note from="translator">パラメータにおける `m` は記号である（数量を意味することが多い）。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;num&gt;</term></tig></langSet>
