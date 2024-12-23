@@ -1318,11 +1318,6 @@
                 <descrip>commit 在git中是提交的意思</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>;</term></tig></langSet>
-                <descrip>中文分号</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term/></tig></langSet>
                 <descrip>&gt; このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています。</descrip>
