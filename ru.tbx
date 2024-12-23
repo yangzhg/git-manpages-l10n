@@ -2182,7 +2182,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>pattern</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>шаблон</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;when&gt;</term></tig></langSet>
@@ -2594,6 +2594,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>сonfiguration variable</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>переменная конфигурации</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slash</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>слэш</term></tig></langSet>
             </termEntry>
         </body>
     </text>
