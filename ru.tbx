@@ -2594,10 +2594,6 @@
                 <langSet xml:lang="en"><tig><term>slash</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>слэш</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>tip [of a branch]</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>верхушка</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
