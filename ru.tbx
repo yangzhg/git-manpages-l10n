@@ -214,7 +214,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blob</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>большой двоичный объект, бинарный объект (Binary Large OBject)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>blob-объект, большой двоичный объект, бинарный объект (Binary Large OBject)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bisect</term></tig></langSet>
@@ -1362,7 +1362,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree object</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>объект-дерево</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SCM</term></tig></langSet>
@@ -1436,7 +1436,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>дерево</term></tig></langSet>
                 <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
@@ -2593,6 +2593,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slash</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>слэш</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tip [of a branch]</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>верхушка</term></tig></langSet>
             </termEntry>
         </body>
     </text>
