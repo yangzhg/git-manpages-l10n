@@ -281,10 +281,6 @@
                 <langSet xml:lang="ru"><tig><term>изменение, патч</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>pattern</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>шаблон</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>pick</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>выбрать</term></tig></langSet>
             </termEntry>
