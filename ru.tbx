@@ -2246,7 +2246,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;options&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;параметры&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>symref</term></tig></langSet>
@@ -2371,7 +2371,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;option&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;параметр&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;pathspec&gt;</term></tig></langSet>
@@ -2529,7 +2529,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;refspec&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;спецификатор ссылки&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;group&gt;</term></tig></langSet>
@@ -2557,7 +2557,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;object&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;объект&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;time&gt;</term></tig></langSet>
@@ -2586,6 +2586,18 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>argument</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>аргумент</term></tig></langSet>
+            </termEntry>
+            <termEntry id="[в командной строке]">
+                <langSet xml:lang="en"><tig><term>option</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>параметр</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>сonfiguration variable</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>переменная конфигурации</term></tig></langSet>
             </termEntry>
         </body>
     </text>
