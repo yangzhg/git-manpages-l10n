@@ -286,7 +286,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>porcelain</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>машиночитаемый формат</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>машиночитаемый формат, высокоуровневый программный интерфейс, сторонние программы, «фарфоровый» интерфейс</term></tig></langSet>
+                <note from="translator">неформальное название. В сообщениях самого git используется «машиночитаемый формат», но в документации под этим могут пониматься несколько разные вещи.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>production</term></tig></langSet>
@@ -1334,15 +1335,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alternate object database</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>дополнительная база данных объектов</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object database</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>база данных объектов</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>объект</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -1350,7 +1351,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>голова [ветки]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>chain</term></tig></langSet>
@@ -1366,7 +1367,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SCM</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>СКВ, система контроля версий</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clean</term></tig></langSet>
@@ -1399,7 +1400,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reachable</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>достижимый</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file system</term></tig></langSet>
@@ -1419,7 +1420,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object name</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>имя объекта</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index entry</term></tig></langSet>
@@ -1460,7 +1461,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>plumbing</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>внутренний интерфейс Git</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>per-worktree ref</term></tig></langSet>
@@ -2593,6 +2594,18 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slash</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>слэш</term></tig></langSet>
+            </termEntry>
+            <termEntry id="of a branch">
+                <langSet xml:lang="en"><tig><term>tip</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>верхушка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hash</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>хэш</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>core Git</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ядро Git</term></tig></langSet>
             </termEntry>
         </body>
     </text>
