@@ -134,7 +134,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>committing</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>коммичу</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>выполнение коммита</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>conflict</term></tig></langSet>
@@ -150,7 +150,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>отделённый HEAD</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отсоединённый [указатель] HEAD</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>details</term></tig></langSet>
@@ -327,7 +327,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>refspec</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>спецификация ссылки</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>спецификатор ссылки</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -583,7 +583,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check out</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>перейти, переключиться [на ветку], выгрузить состояние, извлечь</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare repository</term></tig></langSet>
@@ -627,7 +627,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remote-tracking</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отслеживаемая внешняя [ветка]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
@@ -1330,7 +1330,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>индекс</term></tig></langSet>
                 <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefindexaindex</descrip>
             </termEntry>
             <termEntry>
@@ -1355,7 +1355,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>chain</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>цепочка</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cherry-picking</term></tig></langSet>
@@ -1432,7 +1432,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object type</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>тип объекта</term></tig></langSet>
                 <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
@@ -2182,7 +2182,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;when&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;когда&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;diff-options&gt;</term></tig></langSet>
@@ -2242,7 +2242,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>symref</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>символическая ссылка</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>submodules</term></tig></langSet>
@@ -2270,7 +2270,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;value&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;значение&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;remote&gt;</term></tig></langSet>
@@ -2367,7 +2367,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;pathspec&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;спецификатор-пути&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;directory&gt;</term></tig></langSet>
@@ -2383,7 +2383,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;mode&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;режим&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;number&gt;</term></tig></langSet>
@@ -2469,7 +2469,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;keyid&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;id-ключа&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;strategy&gt;</term></tig></langSet>
@@ -2477,19 +2477,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;commit&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;коммит&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;author&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;автор&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;msg&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;сообщение&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;token&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;лексема&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;type&gt;</term></tig></langSet>
@@ -2533,7 +2533,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;version&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;версия&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;parent-number&gt;</term></tig></langSet>
@@ -2577,7 +2577,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>разыменование</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>argument</term></tig></langSet>
@@ -2606,6 +2606,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>core Git</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>ядро Git</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>DISCUSSION</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ОБСУЖДЕНИЕ</term></tig></langSet>
+            </termEntry>
+            <termEntry id="verb">
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>закоммитить, создать коммит, выполнить коммит</term></tig></langSet>
             </termEntry>
         </body>
     </text>
