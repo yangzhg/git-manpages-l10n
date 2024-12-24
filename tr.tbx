@@ -16,99 +16,100 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSH:256</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>SSH:256</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>log.showSignature</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>log.showSignature</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Değişiklik Kaydı - vari</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone (verb)</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>klon (fiil)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone (noun)</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>klon (isim)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Çıkış yapmak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check out</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Çıkış yapmak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changeset</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>değişiklik seti</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blame</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>suçlamak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bisect</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ikiye bölmek</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare repository</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>yalın depo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare repo</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çıplak repo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare clone</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çıplak klon</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>author date</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>yazar tarihi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>annotated tag</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>açıklamalı etiket</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>amend</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>düzeltmek</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>3-way merge</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>3 yollu birleştirme</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>a remote</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>uzaktan kumanda</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>local machine</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>yerel makine</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>master branch</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ana dal</term></tig></langSet>
+                <note from="translator">master (ana)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remote-tracking</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>uzaktan izleme</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>klon</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>dizin</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>depo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
@@ -796,141 +797,144 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>content to be committed</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Deşiklik yapılacak içerik</term></tig></langSet>
                 <descrip>commit 在git中是提交的意思</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>;</term></tig></langSet>
                 <descrip>中文分号</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>göi</term></tig></langSet>
+                <note from="translator">Algoritmanın adı bir kısaltmadır ("Görünüşte Özyinelemeli İkiz"), çünkü önceki varsayılan algoritma olan yinelemeli algoritmanın yerine geçmek üzere yazılmıştır.</note>
                 <descrip>&gt; このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>paket</term></tig></langSet>
+                <note from="translator">Yer kazanmak veya verimli bir şekilde iletmek için tek bir dosyaya sıkıştırılmış nesne kümesi.</note>
                 <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpackapack</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>indeks</term></tig></langSet>
                 <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefindexaindex</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alternate object database</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>alternatif nesne veritabanı</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object database</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>nesne veritabanı</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blob</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>damla</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>nesne</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>dal</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Değişiklik Kaydı</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>baş</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çalışılan ağaç</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>BAŞ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>önbellek</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>chain</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>zincir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ebeveyn</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cherry-picking</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kiraz toplama</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree object</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ağaç nesnesi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SCM</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>SCM</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clean</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>temiz</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>revision</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>revizyon</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kirli</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>etiket</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Değişiklik Kaydı-vari</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>directed acyclic graph</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>yönlendirilmiş döngüsüz grafik</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>DAG</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>YDG</term></tig></langSet>
+                <note from="translator">Yönlendirilmiş Döngüsüz Grafik</note>
                 <descrip>Directed Acyclic Graph</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dangling object</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>sarkan nesne</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unreachable object</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ulaşılamaz nesne</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reachable</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ulaşılabilir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>birleştirmek</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fast-forward</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>hızlı ileri sarma</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file system</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>dosya sistemi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Linus Torvalds</term></tig></langSet>
@@ -938,117 +942,117 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>gidip getirmek</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>başvuru</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Git</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Git</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>grafts</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>aşılar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ayrılmış BAŞ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object name</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>nesne adı</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kanca</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index entry</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>indeks girişi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çekmek</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SHA-1</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>SHA-1</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object type</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>nesne türü</term></tig></langSet>
                 <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ağaç</term></tig></langSet>
                 <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ahtapot</term></tig></langSet>
                 <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>köken</term></tig></langSet>
                 <descrip>glossary: default name of upstream repository.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>üst üste bindirme</term></tig></langSet>
                 <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ağaç-vari</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>yol belirtimi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pickaxe</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kazma</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>plumbing</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>tesisat</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>per-worktree ref</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>iş-ağacı başına referans</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>worktree</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çalışma ağacı</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudoref</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>sahte referans</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reflog</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>yeniden kayıt etme</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>[[def_clean]]clean</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>[[def_clean]]temiz</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tags</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>etiketler</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Interactively choose hunks of patch between the index and the work tree and add them to the index. This gives the user a chance to review the difference before adding modified contents to the index.</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Dizin ve çalışma ağacı arasındaki yama parçalarını etkileşimli olarak seçin ve bunları dizine ekleyin. Bu, kullanıcıya dizine değiştirilmiş içerikler eklemeden önce farkı inceleme şansı verir.</term></tig></langSet>
                 <descrip>git</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>literal formatting code</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>tam biçimlendirme kodu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-bisect[1]</term></tig></langSet>
@@ -1220,7 +1224,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>yukarı akış</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-format-patch[1]</term></tig></langSet>
@@ -1444,7 +1448,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>combined diff</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>birleşik fark</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-merge-tree[1]</term></tig></langSet>
@@ -1736,15 +1740,15 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>pattern</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>model</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;when&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;ne zaman&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;diff-options&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;fark-seçenekleri&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;range1&gt;</term></tig></langSet>
@@ -1752,390 +1756,392 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;range2&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;aralık2&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;rev1&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;rev1&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;rev2&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;rev2&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;base&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;temel&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;path&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;yol&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;command&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;komut&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;doc&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;belge&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;new-branch&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;yeni-dal&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;start-point&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;başlangıç noktası&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;style&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;stil&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;revision-range&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;revizyon aralığı&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;options&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;seçenekler&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>symref</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>symref</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>submodules</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>alt modüller</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>superprojects</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>süper projeler</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;patterns&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;desenler&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;socket-path&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;soket-yolu&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;git-dir&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;git-dizin&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;key&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;anahtar&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;value&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;değer&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;remote&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;uzaktan&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;format&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;biçim&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;branch-name&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;dal-adı&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;permissions&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;izinler&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;transport&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;taşıma&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;address&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;adres&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;actual url base&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;gerçek url tabanı&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;other url base&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;diğer url tabanı&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;unix-timestamp&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;unix-zaman-damgası&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;time-zone-offset&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;zaman dilimi ofseti&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;tree-ish&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;ağaç-vari&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;tree-ish-1&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;ağaç-vari-1&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;tree-ish-2&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;ağaç-vari-2&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;pattern&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;desen&gt;</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>&lt;sha1&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;sha1&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;n&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
-                <note from="translator">パラメータにおける `n` は記号である（数量を意味することが多い）。</note>
+                <langSet xml:lang="tr"><tig><term>&lt;n&gt;</term></tig></langSet>
+                <note from="translator">Parametrelerdeki 'n' bir semboldür (genellikle bir miktar anlamına gelir).</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;depth&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;derinlik&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;template-directory&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;şablon-dizini&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;filter&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;filtre&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;uri&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;uri&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;perm&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;perm&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;sha1&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;sha1&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;option&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;seçenek&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;pathspec&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;yol belirtimi&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;directory&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;dizin&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;filter-spec&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;filtre-belirtimi&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;size&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;boyut&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;mode&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;mod&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;number&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;sayı&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;hash&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;karma&gt;</term></tig></langSet>
                 <note from="translator">コミットハッシュのこと</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;from-file-range&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;dosya-aralığı&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;to-file-range&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;dosya-aralığı&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;char&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;karakter&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;text&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;metin&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;width&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;genişlik&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;name-width&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;isim-genişliği&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;count&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;sayım&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;limit&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;sınır&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;modes&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;modlar&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;regex&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;düzenli ifade&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;kind&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;tür&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;m&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
-                <note from="translator">パラメータにおける `m` は記号である（数量を意味することが多い）。</note>
+                <langSet xml:lang="tr"><tig><term>&lt;m&gt;</term></tig></langSet>
+                <note from="translator">Parametrelerdeki 'm' bir semboldür (genellikle bir miktar anlamına gelir).</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;num&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;sayı&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;string&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;dize&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;object-id&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;nesne kimliği&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;orderfile&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;sipariş dosyası&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;lines&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;satırlar&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;prefix&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;önek&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;keyid&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;anahtarkimliği&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;strategy&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;strateji&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;commit&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;taahhüt&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;author&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;yazar&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;msg&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;msj&gt;</term></tig></langSet>
+                <note from="translator">mesaj ın kısaltılmış hali msj</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;token&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;jeton&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;type&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;tür&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;start&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;başlat&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;end&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;son&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;funcname&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;işlev adı&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;full-commit-message&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;tam-değişiklik-mesajı&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;branch&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;dal&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;key-id&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;anahtar-kimliği&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;refspec&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;refspec&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;group&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;grup&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;git-upload-archive&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;git-upload-arşivi&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;version&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;sürüm&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;parent-number&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;üst-numara&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;config-file&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;yapılandırma dosyası&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;ref&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;başvuru&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;object&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;nesne&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;time&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;zaman&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;dir&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;dizin&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;message-id&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;mesaj-kimliği&gt;</term></tig></langSet>
+                <note from="translator">id = kimlik</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;subject-prefix&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;özne öneki&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;replaced-sha1&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;değiştirildi-sha1&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;remote-name&gt;</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>&lt;uzaktan-adı&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>başvurudan vazgeçme</term></tig></langSet>
             </termEntry>
         </body>
     </text>
