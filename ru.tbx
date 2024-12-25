@@ -582,7 +582,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>author date</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>дата создания</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>annotated tag</term></tig></langSet>
@@ -2536,7 +2536,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;dir&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;каталог&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;message-id&gt;</term></tig></langSet>
@@ -2605,6 +2605,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dry-run</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>пробный запуск</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>сonfiguration variable</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>переменная конфигурации</term></tig></langSet>
             </termEntry>
         </body>
     </text>
