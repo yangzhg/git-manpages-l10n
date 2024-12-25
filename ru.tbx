@@ -156,10 +156,6 @@
                 <langSet xml:lang="ru"><tig><term>отменить изменения</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>dry run</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>пробный запуск</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>[электронная] почта, email</term></tig></langSet>
             </termEntry>
