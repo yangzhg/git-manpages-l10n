@@ -124,11 +124,6 @@
                 <langSet xml:lang="ru"><tig><term>коммиты</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>committer</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>коммиттер</term></tig></langSet>
-                <descrip>pelaku?</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>committing</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>выполнение коммита</term></tig></langSet>
             </termEntry>
