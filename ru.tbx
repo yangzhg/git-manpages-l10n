@@ -111,10 +111,6 @@
                 <langSet xml:lang="ru"><tig><term>коммит</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>commit (verb)</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>закоммитить, создать коммит</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>commit message</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>сообщение коммита</term></tig></langSet>
                 <descrip>On différencie le terme nominal commit (non traduit) du verbe (valider, validation)</descrip>
