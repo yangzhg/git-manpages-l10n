@@ -2598,10 +2598,6 @@
                 <langSet xml:lang="en"><tig><term>committer</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>коммиттер</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>dry run</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>пробный запуск</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>метка времени</term></tig></langSet>
