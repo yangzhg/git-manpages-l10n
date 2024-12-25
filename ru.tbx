@@ -2611,6 +2611,10 @@
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>закоммитить, создать коммит, выполнить коммит</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>committer</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>коммиттер</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
