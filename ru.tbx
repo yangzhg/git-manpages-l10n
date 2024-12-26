@@ -2614,6 +2614,15 @@
                 <langSet xml:lang="en"><tig><term>see</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>см.</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unified diff</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>список изменений (в унифицированном формате)</term></tig></langSet>
+                <note from="translator">просто «список изменений», если фраза повторяется много раз. К первому употреблению в разделе/документе или если это важно, можно добавить «(в унифицированном формате)»</note>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>commit message</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сообщение коммита</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
