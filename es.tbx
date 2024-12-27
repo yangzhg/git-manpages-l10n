@@ -1039,7 +1039,6 @@ Como sustantivo: paquete</note>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>árbol</term></tig></langSet>
-                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
