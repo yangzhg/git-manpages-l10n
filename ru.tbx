@@ -1412,7 +1412,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>дерево</term></tig></langSet>
-                <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
@@ -2180,7 +2179,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;base&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;база&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;path&gt;</term></tig></langSet>
@@ -2288,7 +2287,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;tree-ish&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;указатель-дерева&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;tree-ish-1&gt;</term></tig></langSet>
@@ -2309,7 +2308,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;n&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term/></tig></langSet>
-                <note from="translator">パラメータにおける `n` は記号である（数量を意味することが多い）。</note>
+                <note from="translator">сам git почти везде использует `&lt;n&gt;` в переводе.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;depth&gt;</term></tig></langSet>
@@ -2349,7 +2348,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;filter-spec&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;спецификатор-фильтра&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;size&gt;</term></tig></langSet>
@@ -2519,7 +2518,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;ref&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;ссылка&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;object&gt;</term></tig></langSet>
@@ -2617,6 +2616,14 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit message</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>сообщение коммита</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;n&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;кол&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>&lt;n&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;число&gt;</term></tig></langSet>
             </termEntry>
         </body>
     </text>
