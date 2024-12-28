@@ -601,7 +601,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>master branch</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>мастер-ветка, master</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remote-tracking</term></tig></langSet>
@@ -2628,6 +2628,26 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>sparse checkout</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>частичное переключение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sparce</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>разреженный</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>клон</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>клонировать</term></tig></langSet>
+            </termEntry>
+            <termEntry id="noun">
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>клон</term></tig></langSet>
+            </termEntry>
+            <termEntry id="v">
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>клонировать</term></tig></langSet>
             </termEntry>
         </body>
     </text>
