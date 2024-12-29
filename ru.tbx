@@ -608,10 +608,6 @@
                 <langSet xml:lang="ru"><tig><term>отслеживаемая внешняя [ветка]</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-commit[1]</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term/></tig></langSet>
             </termEntry>
