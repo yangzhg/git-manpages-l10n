@@ -2629,10 +2629,6 @@
                 <langSet xml:lang="en"><tig><term>sparce</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>разреженный</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>клон</term></tig></langSet>
-            </termEntry>
             <termEntry id="noun">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>клон</term></tig></langSet>
