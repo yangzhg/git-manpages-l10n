@@ -2323,6 +2323,10 @@
                 <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry id="noun">
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
