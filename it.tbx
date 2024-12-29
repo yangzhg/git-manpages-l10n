@@ -2138,6 +2138,10 @@
             </termEntry>
             <termEntry id="noun">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="verb">
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
