@@ -99,10 +99,6 @@
                 <langSet xml:lang="ru"><tig><term>часть, кусок</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>clone (verb)</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>клонировать</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>указатель коммита</term></tig></langSet>
             </termEntry>
