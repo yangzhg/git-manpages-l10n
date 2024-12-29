@@ -2629,6 +2629,10 @@
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>клонировать</term></tig></langSet>
             </termEntry>
+            <termEntry id="verb">
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>клонировать</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
