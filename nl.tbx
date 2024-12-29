@@ -2142,6 +2142,10 @@
             </termEntry>
             <termEntry id="noun">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="verb">
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
