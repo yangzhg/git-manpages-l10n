@@ -2333,6 +2333,10 @@
                 <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>逆参照</term></tig></langSet>
             </termEntry>
+            <termEntry id="noun">
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
