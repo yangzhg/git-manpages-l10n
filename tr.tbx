@@ -2142,6 +2142,10 @@
                 <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>başvurudan vazgeçme</term></tig></langSet>
             </termEntry>
+            <termEntry id="noun">
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
