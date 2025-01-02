@@ -2244,7 +2244,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;branch-name&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;имя-ветки&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;permissions&gt;</term></tig></langSet>
@@ -2252,11 +2252,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;transport&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;транспорт&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;address&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;адрес&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;actual url base&gt;</term></tig></langSet>
@@ -2317,7 +2317,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;perm&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;права-доступа&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;sha1&gt;</term></tig></langSet>
@@ -2638,6 +2638,19 @@
                 <langSet xml:lang="en"><tig><term>partial clone</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>неполный клон</term></tig></langSet>
                 <note from="translator">«частичный» в переводе Git используется для «shallow», если получится исправить это в Git, то термин нужно будет заменить</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Note</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Примечание</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote helper</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>помощник работы со внешним репозиторием</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>DAG</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>направленный ациклический граф</term></tig></langSet>
+                <note from="translator">допустимы оба варианта. какой использовать — стилистический выбор, на основе контекста</note>
             </termEntry>
         </body>
     </text>
