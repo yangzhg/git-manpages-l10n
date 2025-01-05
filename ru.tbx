@@ -1431,7 +1431,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>worktree</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>рабочая копия, рабочий каталог</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudoref</term></tig></langSet>
@@ -2188,7 +2188,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;start-point&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;начальная-точка&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;style&gt;</term></tig></langSet>
@@ -2228,7 +2228,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;key&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;ключ&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;value&gt;</term></tig></langSet>
@@ -2386,7 +2386,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;limit&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;ограничение&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;modes&gt;</term></tig></langSet>
@@ -2475,7 +2475,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;branch&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;ветка&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;key-id&gt;</term></tig></langSet>
@@ -2655,6 +2655,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>subject</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>заголовок [коммита]</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Implies</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Подразумевает</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Note that">
+                <langSet xml:lang="en"><tig><term>Note that</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Обратите внимание, что</term></tig></langSet>
             </termEntry>
         </body>
     </text>
