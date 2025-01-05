@@ -2288,7 +2288,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;pattern&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;шаблон&gt;</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>&lt;sha1&gt;</term></tig></langSet>
@@ -2651,6 +2651,10 @@
                 <langSet xml:lang="en"><tig><term>DAG</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>направленный ациклический граф</term></tig></langSet>
                 <note from="translator">допустимы оба варианта. какой использовать — стилистический выбор, на основе контекста</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subject</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>заголовок [коммита]</term></tig></langSet>
             </termEntry>
         </body>
     </text>
