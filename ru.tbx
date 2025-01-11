@@ -2398,7 +2398,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;kind&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;тип&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;m&gt;</term></tig></langSet>
