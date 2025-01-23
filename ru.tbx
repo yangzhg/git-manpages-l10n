@@ -2426,7 +2426,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;prefix&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;префикс&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;keyid&gt;</term></tig></langSet>
