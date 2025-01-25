@@ -808,7 +808,7 @@
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>ort</term></tig></langSet>
                 <note from="translator">이 알고리즘의 이름은 "Ostensibly Recursive's Twin" 알고리즘의 앞글자를 딴 것으로, 이전의 디폴트 알고리즘인  recursive 의 대체로서 쓰여진 것에서 유래되었습니다.</note>
-                <descrip>&gt; このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています。</descrip>
+                <descrip>"Ostensibly Recursive's Twin" merge strategy algorithm</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
@@ -2145,7 +2145,7 @@
             </termEntry>
             <termEntry id="verb">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
