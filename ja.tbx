@@ -878,7 +878,8 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>ort</term></tig></langSet>
-                <descrip>&gt; このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています。</descrip>
+                <note from="translator">このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています</note>
+                <descrip>"Ostensibly Recursive's Twin" merge strategy algorithm</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>heuristic</term></tig></langSet>
@@ -2339,7 +2340,7 @@
             </termEntry>
             <termEntry id="verb">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
