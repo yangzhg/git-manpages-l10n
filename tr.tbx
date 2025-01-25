@@ -809,7 +809,7 @@
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>göi</term></tig></langSet>
                 <note from="translator">Algoritmanın adı bir kısaltmadır ("Görünüşte Özyinelemeli İkiz"), çünkü önceki varsayılan algoritma olan yinelemeli algoritmanın yerine geçmek üzere yazılmıştır.</note>
-                <descrip>&gt; このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています。</descrip>
+                <descrip>"Ostensibly Recursive's Twin" merge strategy algorithm</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
@@ -2148,7 +2148,7 @@
             </termEntry>
             <termEntry id="verb">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
