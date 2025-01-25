@@ -1287,7 +1287,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term/></tig></langSet>
-                <descrip>&gt; このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています。</descrip>
+                <descrip>"Ostensibly Recursive's Twin" merge strategy algorithm</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
