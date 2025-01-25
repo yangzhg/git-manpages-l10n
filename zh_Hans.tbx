@@ -1333,7 +1333,7 @@
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>ort</term></tig></langSet>
                 <note from="translator">ort是一项合并策略，是recursive策略的重构，拥有更好的性能和更完善的功能。</note>
-                <descrip>&gt; このアルゴリズムの名前は頭文字をとったもので（"Ostensibly Recursive's Twin"）、以前のデフォルトアルゴリズムである `recursive` の置き換えとして書かれたことに由来しています。</descrip>
+                <descrip>"Ostensibly Recursive's Twin" merge strategy algorithm</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alternate object database</term></tig></langSet>
@@ -2652,7 +2652,7 @@
             </termEntry>
             <termEntry id="verb">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
