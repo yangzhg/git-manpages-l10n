@@ -210,7 +210,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone (verb)</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>cloner (verbe)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone (noun)</term></tig></langSet>
@@ -254,7 +254,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>amend</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>amender</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>3-way merge</term></tig></langSet>
@@ -270,7 +270,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>master branch</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>branche principale</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remote-tracking</term></tig></langSet>
@@ -1011,7 +1011,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>index</term></tig></langSet>
                 <descrip>https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefindexaindex</descrip>
             </termEntry>
             <termEntry>
@@ -1032,7 +1032,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>branche</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
@@ -1109,7 +1109,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>combiner</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fast-forward</term></tig></langSet>
@@ -1117,7 +1117,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file system</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>système de fichiers</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Linus Torvalds</term></tig></langSet>
@@ -1213,7 +1213,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tags</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>étiquettes</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Interactively choose hunks of patch between the index and the work tree and add them to the index. This gives the user a chance to review the difference before adding modified contents to the index.</term></tig></langSet>
@@ -1982,7 +1982,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;options&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;options&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>symref</term></tig></langSet>
@@ -2030,7 +2030,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;permissions&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;permissions&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;transport&gt;</term></tig></langSet>
@@ -2091,7 +2091,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;filter&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;filtre&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;uri&gt;</term></tig></langSet>
@@ -2107,7 +2107,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;option&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;option&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;pathspec&gt;</term></tig></langSet>
@@ -2115,7 +2115,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;directory&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;répertoire&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;filter-spec&gt;</term></tig></langSet>
@@ -2168,7 +2168,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;limit&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;limite&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;modes&gt;</term></tig></langSet>
@@ -2205,11 +2205,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;lines&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;lignes&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;prefix&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;préfixe&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;keyid&gt;</term></tig></langSet>
@@ -2237,7 +2237,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;type&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;type&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;start&gt;</term></tig></langSet>
@@ -2277,7 +2277,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;version&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;version&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;parent-number&gt;</term></tig></langSet>
