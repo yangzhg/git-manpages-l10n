@@ -876,7 +876,6 @@ Anteriormente se usó la traducción "encomendar" que generó inconvenientes par
             <termEntry>
                 <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>;</term></tig></langSet>
-                <note from="translator">iñobák</note>
                 <descrip>中文分号</descrip>
             </termEntry>
             <termEntry>
@@ -946,7 +945,8 @@ Como sustantivo: paquete</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SCM</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><tig><term>GCF</term></tig></langSet>
+                <note from="translator">Siglas de Gestor de Código Fuente</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clean</term></tig></langSet>
@@ -1798,7 +1798,7 @@ Como sustantivo: paquete</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;diff-options&gt;</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><tig><term>&lt;opciones-de-diff&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;range1&gt;</term></tig></langSet>
@@ -1967,7 +1967,7 @@ Como sustantivo: paquete</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;perm&gt;</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><tig><term>&lt;permiso&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;sha1&gt;</term></tig></langSet>
@@ -2004,7 +2004,6 @@ Como sustantivo: paquete</note>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;hash&gt;</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
-                <note from="translator">コミットハッシュのこと</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;from-file-range&gt;</term></tig></langSet>
