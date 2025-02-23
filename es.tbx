@@ -93,10 +93,6 @@ Anteriormente se usó la traducción "encomendar" que generó inconvenientes par
                 <langSet xml:lang="es"><tig><term>SSH:256</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>log.showSignature</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>log.showSignature</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>confirmación-ismo</term></tig></langSet>
             </termEntry>
