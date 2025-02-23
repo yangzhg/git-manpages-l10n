@@ -1762,10 +1762,6 @@ Como sustantivo: paquete</note>
                 <langSet xml:lang="es"><tig><term>&lt;opciones-de-diff&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>&lt;range2&gt;</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>&lt;rango2&gt;</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;rev1&gt;</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>&lt;rev1&gt;</term></tig></langSet>
             </termEntry>
