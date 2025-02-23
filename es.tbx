@@ -862,11 +862,6 @@ Anteriormente se usó la traducción "encomendar" que generó inconvenientes par
                 <descrip>commit 在git中是提交的意思</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>;</term></tig></langSet>
-                <descrip>中文分号</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>ort</term></tig></langSet>
                 <descrip>"Ostensibly Recursive's Twin" merge strategy algorithm</descrip>
