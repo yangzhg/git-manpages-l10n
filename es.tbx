@@ -2092,10 +2092,6 @@ Como sustantivo: paquete</note>
                 <langSet xml:lang="es"><tig><term>&lt;nombre-de-función&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>&lt;full-commit-message&gt;</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>&lt;mensaje-completo-de-confirmación&gt;</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;branch&gt;</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>&lt;rama&gt;</term></tig></langSet>
             </termEntry>
