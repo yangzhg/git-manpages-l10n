@@ -974,10 +974,6 @@ Como sustantivo: paquete</note>
                 <langSet xml:lang="es"><tig><term>sistema de archivos</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Linus Torvalds</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Linus Torvalds</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>referencia</term></tig></langSet>
             </termEntry>
