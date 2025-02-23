@@ -105,10 +105,6 @@ Anteriormente se usó la traducción "encomendar" que generó inconvenientes par
                 <langSet xml:lang="es"><tig><term>clonar</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>clone (noun)</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>clón</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>ver</term></tig></langSet>
             </termEntry>
