@@ -2185,6 +2185,10 @@ Como sustantivo: paquete</note>
                 <langSet xml:lang="en"><tig><term>hunk</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>bloque</term></tig></langSet>
             </termEntry>
+            <termEntry id="noun">
+                <langSet xml:lang="en"><tig><term>amend</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>enmiendo</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
