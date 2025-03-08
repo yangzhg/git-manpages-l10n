@@ -265,7 +265,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>prune</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>почистить</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>подчистить</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
