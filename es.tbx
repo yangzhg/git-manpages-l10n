@@ -36,7 +36,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>EOF</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>fin de archivo</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>fin de fichero</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>diff</term></tig></langSet>
@@ -963,7 +963,7 @@ Como sustantivo: paquete</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file system</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>sistema de archivos</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>sistema de ficheros</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
