@@ -1458,10 +1458,6 @@ Como sustantivo: paquete</note>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>combined diff</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>diferencia combinada</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-merge-tree[1]</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
