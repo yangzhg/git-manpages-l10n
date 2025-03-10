@@ -1452,7 +1452,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>literal formatting code</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>литерал, представленный в виде кода</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-bisect[1]</term></tig></langSet>
@@ -2666,6 +2666,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>3-way merge</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>трёхходовое слияние</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>метка-заполнитель</term></tig></langSet>
             </termEntry>
         </body>
     </text>
