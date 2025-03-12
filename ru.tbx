@@ -1443,7 +1443,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tags</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>метки</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Interactively choose hunks of patch between the index and the work tree and add them to the index. This gives the user a chance to review the difference before adding modified contents to the index.</term></tig></langSet>
@@ -1452,7 +1452,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>literal formatting code</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>литерал, представленный в виде кода</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>литерал, представленный в виде кода форматирования</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-bisect[1]</term></tig></langSet>
@@ -2558,7 +2558,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hash</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>хэш</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>хеш</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>core Git</term></tig></langSet>
@@ -2670,6 +2670,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>метка-заполнитель</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>метки-заполнители</term></tig></langSet>
             </termEntry>
         </body>
     </text>
