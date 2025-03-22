@@ -836,7 +836,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>오브젝트(객체)</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>객체</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
@@ -945,7 +945,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>레퍼런스</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>참조</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Git</term></tig></langSet>
@@ -2137,7 +2137,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>역참조</term></tig></langSet>
             </termEntry>
             <termEntry id="noun">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
@@ -2146,6 +2146,98 @@
             <termEntry id="verb">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>archive</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>아카이브</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>override</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>재정의</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>namespace</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>이름 공간</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>override</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>재정의</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>indexing</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>인덱싱</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>non-zero</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>0이 아닌</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>no-op</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>무연산 명령어</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>executable bit</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>실행 비트</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>line ending</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>줄바꿈 문자</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subcommand</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>서브 명령어</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interactive mode</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>상호작용 모드</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stage</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>스테이징</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>porcelain</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>사용자 친화적 인터페이스</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ancestor</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>상위 커밋</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mapping</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>맵핑</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reference</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>참조</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>storage</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>저장</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>collection</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>콜렉션</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>definitive commit</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>확정적 커밋</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>prefix</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>접두어</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>refspec</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>refspec</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>evil merge</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>사악한 병합</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>detached</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>분리된</term></tig></langSet>
             </termEntry>
         </body>
     </text>
