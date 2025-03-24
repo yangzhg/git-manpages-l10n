@@ -2239,6 +2239,10 @@
                 <langSet xml:lang="en"><tig><term>detached</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>분리된</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hunk</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>조각</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
