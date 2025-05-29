@@ -1048,7 +1048,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>cache</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>chain</term></tig></langSet>
