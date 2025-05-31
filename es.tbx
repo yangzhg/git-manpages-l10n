@@ -1051,7 +1051,8 @@ Como sustantivo: paquete</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reflog</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><tig><term>bitácora de referencias</term></tig></langSet>
+                <note from="translator">Usar "registro" para "log" obliga a desambigüar entre 'el contenedor', 'un solo elemento' y 'el verbo' (ej. "Yo registro el registro en el registro"), adicionalmente, una entrada de la base de datos de objetos ("record") también puede traducirse como "registro". Por eso se propone usar "bitácora".</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>[[def_clean]]clean</term></tig></langSet>
