@@ -29,7 +29,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>commit-ish</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone (verb)</term></tig></langSet>
@@ -97,23 +97,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>master branch</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>master merk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remote-tracking</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>remote-jejak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>clone</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>directory</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>repository</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
@@ -2079,7 +2079,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;branch&gt;</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>&lt;branch&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;key-id&gt;</term></tig></langSet>
@@ -2152,6 +2152,10 @@
             <termEntry id="verb">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="Translate">
+                <langSet xml:lang="en"><tig><term>;</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>;</term></tig></langSet>
             </termEntry>
         </body>
     </text>
