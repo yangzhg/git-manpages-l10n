@@ -1936,7 +1936,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;address&gt;</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
+                <langSet xml:lang="de"><tig><term>&lt;Adresse&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;actual url base&gt;</term></tig></langSet>
@@ -2231,7 +2231,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>script</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Skript</term></tig></langSet>
             </termEntry>
         </body>
     </text>
