@@ -1023,7 +1023,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file system</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Dateisystem</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Linus Torvalds</term></tig></langSet>
@@ -1989,7 +1989,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;filter&gt;</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
+                <langSet xml:lang="de"><tig><term>&lt;Filter&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;uri&gt;</term></tig></langSet>
