@@ -2142,7 +2142,11 @@ Como sustantivo: paquete</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>script</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailer</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>colofón</term></tig></langSet>
             </termEntry>
         </body>
     </text>
