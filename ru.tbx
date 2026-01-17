@@ -1334,7 +1334,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clean</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>очистить</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
@@ -2674,6 +2674,18 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>метки-заполнители</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pseudorefs</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>псевдоссылки</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>перебазировать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>refs</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ссылки</term></tig></langSet>
             </termEntry>
         </body>
     </text>
