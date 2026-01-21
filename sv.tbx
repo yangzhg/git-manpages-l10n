@@ -117,7 +117,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitattributes[5]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:gitattributes[5]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-checkout-index[1]</term></tig></langSet>
@@ -125,7 +125,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>krok</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-show-index[1]</term></tig></langSet>
@@ -133,7 +133,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:githooks[5]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:githooks[5]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-credential-cache[1]</term></tig></langSet>
@@ -213,7 +213,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-for-each-repo[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-for-each-repo[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
@@ -266,7 +266,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;remote&gt;</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;fjärran&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-pull[1]</term></tig></langSet>
@@ -591,7 +591,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare repo</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>bart förvar</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>bart repo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
@@ -599,7 +599,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>förvar</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>repo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-instaweb[1]</term></tig></langSet>
@@ -635,7 +635,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-ls-remote[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-ls-remote[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object database</term></tig></langSet>
@@ -688,7 +688,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>worktree</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>arbete-katalog</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>arbetsträd</term></tig></langSet>
                 <note from="translator">One "worktree" consists of a "working tree" and repository metadata,...</note>
             </termEntry>
             <termEntry>
@@ -790,7 +790,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-remote[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-remote[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reflog</term></tig></langSet>
@@ -1018,7 +1018,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitrepository-layout[5]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:gitrepository-layout[5]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare clone</term></tig></langSet>
@@ -1100,7 +1100,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitremote-helpers[7]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:gitremote-helpers[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;options&gt;</term></tig></langSet>
@@ -1241,7 +1241,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;perm&gt;</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;behörighet&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-unpack-objects[1]</term></tig></langSet>
@@ -1257,7 +1257,7 @@
             </termEntry>
             <termEntry id="noun">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>klona</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>klon</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changeset</term></tig></langSet>
@@ -1365,7 +1365,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-bugreport[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-bugreport[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
@@ -1434,6 +1434,34 @@
                 <langSet xml:lang="en"><tig><term>&lt;orderfile&gt;</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>&lt;ordnings-fil&gt;</term></tig></langSet>
                 <note from="translator">A file that defines the sort order in some way.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>standard input</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>standard in</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>child commit</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>barn-inchecking</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>case-insensitive</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>skiftlägesoberoende</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>case-sensitive</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>skiftlägeskänslig</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit-ishs</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>inchecknings-aktiga</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>incheckningar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hooks</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>krokar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
