@@ -61,7 +61,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-rm[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-rm[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-read-tree[1]</term></tig></langSet>
@@ -129,7 +129,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-show-index[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-show-index[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:githooks[5]</term></tig></langSet>
@@ -173,7 +173,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;msg&gt;</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;medd&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -189,15 +189,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-upload-archive[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-upload-archive[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitrevisions[7]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:gitrevisions[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-stash[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-stash[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SHA-1</term></tig></langSet>
@@ -217,7 +217,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ort</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>ort</term></tig></langSet>
                 <descrip>"Ostensibly Recursive's Twin" merge strategy algorithm</descrip>
             </termEntry>
             <termEntry>
@@ -226,7 +226,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;m&gt;</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;m&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
@@ -258,7 +258,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-reset[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-reset[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-difftool[1]</term></tig></langSet>
@@ -278,7 +278,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitsubmodules[7]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:gitsubmodules[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check out</term></tig></langSet>
@@ -298,15 +298,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-send-pack[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-send-pack[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-upload-pack[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-upload-pack[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-whatchanged[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-whatchanged[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-hash-object[1]</term></tig></langSet>
@@ -382,7 +382,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-stripspace[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-stripspace[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>chain</term></tig></langSet>
@@ -390,11 +390,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-sh-setup[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-sh-setup[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-rev-parse[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-rev-parse[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-grep[1]</term></tig></langSet>
@@ -430,7 +430,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-shell[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-shell[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>index entry</term></tig></langSet>
@@ -446,7 +446,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-sh-i18n[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-sh-i18n[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>overlay</term></tig></langSet>
@@ -459,7 +459,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-verify-commit[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-verify-commit[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitglossary[7]</term></tig></langSet>
@@ -467,7 +467,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-sparse-checkout[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-sparse-checkout[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;config-file&gt;</term></tig></langSet>
@@ -475,7 +475,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-verify-tag[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-verify-tag[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-mktag[1]</term></tig></langSet>
@@ -511,7 +511,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-symbolic-ref[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-symbolic-ref[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;address&gt;</term></tig></langSet>
@@ -543,7 +543,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-show[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-show[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-credential-store[1]</term></tig></langSet>
@@ -551,7 +551,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-restore[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-restore[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-name-rev[1]</term></tig></langSet>
@@ -655,7 +655,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-tag[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-tag[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pickaxe</term></tig></langSet>
@@ -668,7 +668,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-show-branch[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-show-branch[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;branch-name&gt;</term></tig></langSet>
@@ -705,7 +705,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-update-index[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-update-index[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;type&gt;</term></tig></langSet>
@@ -733,11 +733,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-switch[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-switch[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-show-ref[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-show-ref[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
@@ -778,7 +778,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-rev-list[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-rev-list[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;time&gt;</term></tig></langSet>
@@ -811,7 +811,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-write-tree[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-write-tree[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitfaq[7]</term></tig></langSet>
@@ -835,7 +835,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gittutorial-2[7]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:gittutorial-2[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;num&gt;</term></tig></langSet>
@@ -859,7 +859,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-rerere[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-rerere[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-mv[1]</term></tig></langSet>
@@ -895,7 +895,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-var[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-var[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;kind&gt;</term></tig></langSet>
@@ -903,11 +903,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-unpack-file[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-unpack-file[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-status[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-status[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
@@ -937,7 +937,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitworkflows[7]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:gitworkflows[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-merge-file[1]</term></tig></langSet>
@@ -953,7 +953,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-request-pull[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-request-pull[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-fast-export[1]</term></tig></langSet>
@@ -982,7 +982,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gitweb[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:gitweb[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-citool[1]</term></tig></langSet>
@@ -1002,7 +1002,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:gittutorial[7]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:gittutorial[7]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-pack-redundant[1]</term></tig></langSet>
@@ -1034,7 +1034,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>origin</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>ursprung</term></tig></langSet>
                 <descrip>glossary: default name of upstream repository.</descrip>
             </termEntry>
             <termEntry>
@@ -1055,7 +1055,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-svn[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-svn[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;replaced-sha1&gt;</term></tig></langSet>
@@ -1112,7 +1112,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;name-width&gt;</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;namn-bredd&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;size&gt;</term></tig></langSet>
@@ -1225,7 +1225,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-revert[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-revert[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;keyid&gt;</term></tig></langSet>
@@ -1245,7 +1245,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-unpack-objects[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-unpack-objects[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;value&gt;</term></tig></langSet>
@@ -1253,7 +1253,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-update-ref[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-update-ref[1]</term></tig></langSet>
             </termEntry>
             <termEntry id="noun">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
@@ -1269,7 +1269,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-shortlog[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-shortlog[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;rev2&gt;</term></tig></langSet>
@@ -1277,11 +1277,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-submodule[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-submodule[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-send-email[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-send-email[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-imap-send[1]</term></tig></langSet>
@@ -1321,7 +1321,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-worktree[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-worktree[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;pattern&gt;</term></tig></langSet>
@@ -1374,7 +1374,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-verify-pack[1]</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>linkgit:git-verify-pack[1]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;repository&gt;</term></tig></langSet>
