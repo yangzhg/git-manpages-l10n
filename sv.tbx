@@ -1466,6 +1466,14 @@
                 <langSet xml:lang="en"><tig><term>hooks</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>krokar</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>human readable</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>människoläsbart</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>human-readable</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>människoläsbart</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
