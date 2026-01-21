@@ -230,7 +230,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>cache</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;key-id&gt;</term></tig></langSet>
