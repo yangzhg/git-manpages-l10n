@@ -1500,6 +1500,10 @@
                 <langSet xml:lang="en"><tig><term>remote-tracking branches</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>fjärrspårningsgrenar</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>TEMPLATE DIRECTORY</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>MALLKATALOG</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
