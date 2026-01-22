@@ -16,7 +16,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>slå samman</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>sammanslå</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-bisect[1]</term></tig></langSet>
@@ -532,6 +532,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>HEAD</term></tig></langSet>
+                <note from="translator">Psudo tagg representing the latest revision on the branch.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;prefix&gt;</term></tig></langSet>
@@ -996,7 +997,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>huvud</term></tig></langSet>
+                <note from="translator">Informal ref to teh HEAD psudo tagg on the branch.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-ls-files[1]</term></tig></langSet>
@@ -1473,6 +1475,30 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>human-readable</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>människoläsbart</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>ombasering</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>submodule</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>undermodul</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stash</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>gömma</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>committer</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>incheckare</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>avreferera</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote-tracking branches</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>fjärrspårningsgrenar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
