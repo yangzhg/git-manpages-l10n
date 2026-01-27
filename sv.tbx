@@ -773,7 +773,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;orderfile&gt;</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>&lt;orderfil&gt;</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;ordingsfil&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-merge-tree[1]</term></tig></langSet>
@@ -1432,12 +1432,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>orderfile</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>ordnings-fil</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>ordingsfil</term></tig></langSet>
                 <note from="translator">A file that defines the sort order in some way.</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>&lt;orderfile&gt;</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>&lt;ordnings-fil&gt;</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;ordingsfil&gt;</term></tig></langSet>
                 <note from="translator">A file that defines the sort order in some way.</note>
             </termEntry>
             <termEntry>
@@ -1511,6 +1511,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tips</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>tipsen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>forked</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>avgrenades</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fork point</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>avgrenings-punkten</term></tig></langSet>
             </termEntry>
         </body>
     </text>
