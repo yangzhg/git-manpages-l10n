@@ -1520,6 +1520,11 @@
                 <langSet xml:lang="en"><tig><term>fork point</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>avgrenings-punkten</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hunk</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>stycket</term></tig></langSet>
+                <note from="translator">Hunk in a patch</note>
+            </termEntry>
         </body>
     </text>
 </martif>
