@@ -1525,6 +1525,26 @@
                 <langSet xml:lang="sv"><tig><term>stycket</term></tig></langSet>
                 <note from="translator">Hunk in a patch</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backslash</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>bakåtsnedstreck</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shallow</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>ytlig</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;file-options&gt;</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;fil-flaggor&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>display-option</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>visningsalternativ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sanity-check</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>rimlighetskontroll</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
