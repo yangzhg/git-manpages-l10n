@@ -1506,11 +1506,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tip</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>tip</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>top</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tips</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>tipsen</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>toppar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>forked</term></tig></langSet>
@@ -1544,6 +1544,30 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>sanity-check</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>rimlighetskontroll</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge commits</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>sammanslagnings-incheckningar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hunks</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>stycken</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>detached</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>frikopplad</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>rubrik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>working directory</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>arbetskatalog</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>plumbing</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>rörmokeri</term></tig></langSet>
             </termEntry>
         </body>
     </text>
