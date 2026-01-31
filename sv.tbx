@@ -294,7 +294,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>plumbing</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>rörarbete</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>rörmokeri</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-send-pack[1]</term></tig></langSet>
