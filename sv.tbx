@@ -675,7 +675,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;branch-name&gt;</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>&lt;grennamn&gt;</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;gren-namn&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-commit-graph[1]</term></tig></langSet>
@@ -1568,6 +1568,32 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>blanktecken</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>staged</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>köad</term></tig></langSet>
+                <note from="translator">Swedish translation; The world "köad" (queued) seems have been used in the translation so far, (possible translations  are "iscensatt" (staged), "upplagd" (posted)&#13;
+). For Spanish 'preparada' (prepared) is used, Chinese "Temporarily saved", and Russian 'индексированные' (indexed), so no clear common translation.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>committing</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>checka-in</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>committed</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>checkas-in</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>recording</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>registrering</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>verbose</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>utförligt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revert</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>ångra</term></tig></langSet>
             </termEntry>
         </body>
     </text>
