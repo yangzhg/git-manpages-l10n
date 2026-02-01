@@ -1565,6 +1565,10 @@
                 <langSet xml:lang="en"><tig><term>working directory</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>arbetskatalog</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>blanktecken</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
