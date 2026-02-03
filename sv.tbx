@@ -532,7 +532,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>HEAD</term></tig></langSet>
-                <note from="translator">Psudo tagg representing the latest revision on the branch.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;prefix&gt;</term></tig></langSet>
@@ -998,7 +997,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>huvud</term></tig></langSet>
-                <note from="translator">Informal ref to teh HEAD psudo tagg on the branch.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-ls-files[1]</term></tig></langSet>
@@ -1572,8 +1570,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>staged</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>köad</term></tig></langSet>
-                <note from="translator">Swedish translation; The world "köad" (queued) seems have been used in the translation so far, (possible translations  are "iscensatt" (staged), "upplagd" (posted)&#13;
-). For Spanish 'preparada' (prepared) is used, Chinese "Temporarily saved", and Russian 'индексированные' (indexed), so no clear common translation.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>committing</term></tig></langSet>
@@ -1581,7 +1577,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>committed</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>checkas-in</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>checkat-in</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>recording</term></tig></langSet>
