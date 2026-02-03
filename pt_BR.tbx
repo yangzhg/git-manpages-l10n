@@ -2710,7 +2710,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>script</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ignore pattern</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>padrão de ignorados</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>cherry-pick</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>reconstrução</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>reconstrução</term></tig></langSet>
             </termEntry>
         </body>
     </text>
