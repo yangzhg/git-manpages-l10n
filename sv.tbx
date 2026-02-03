@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cherry-picking</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>Selektivt-urval</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>plocka russin ur kakan</term></tig></langSet>
                 <note from="translator">In SCM jargon, "cherry pick" means to choose a subset of changes out of a series of changes (typically commits) and record them as a new series of changes on top of a different codebase.</note>
             </termEntry>
             <termEntry>
@@ -350,7 +350,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare repository</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>bart repo</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>bart förvar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>[[def_clean]]clean</term></tig></langSet>
@@ -499,7 +499,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;doc&gt;</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;dok&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;limit&gt;</term></tig></langSet>
@@ -592,7 +592,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare repo</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>bart repo</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>bart förvar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
@@ -600,7 +600,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>repo</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>förvar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-instaweb[1]</term></tig></langSet>
@@ -728,7 +728,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blame</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>skylla på</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>klandra</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-archive[1]</term></tig></langSet>
@@ -1383,7 +1383,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;repository&gt;</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>&lt;repo&gt;</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;förvar&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;exec&gt;</term></tig></langSet>
@@ -1594,6 +1594,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>revert</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>ångra</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote repositories</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>fjärrförvar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>förvar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
