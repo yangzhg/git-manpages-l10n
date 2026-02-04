@@ -1599,6 +1599,18 @@
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>förvar</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bundle</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>bunt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>capability</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>förmåga</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>staging area</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>prepareringsytan|indexet</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
