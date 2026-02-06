@@ -69,7 +69,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>sökvägsspec</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>sökvägsangivelse</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
@@ -414,7 +414,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;tree-ish&gt;</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>&lt;trädlikt&gt;</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;träd-igt&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-daemon[1]</term></tig></langSet>
@@ -607,7 +607,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree-ish</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>trädlikt</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>träd-igt</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alternate object database</term></tig></langSet>
@@ -1372,8 +1372,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>fristående huvud (HEAD)</term></tig></langSet>
-                <note from="translator">HEAD is a name and description. so translating it can be problematic.</note>
+                <langSet xml:lang="sv"><tig><term>frånkopplad HEAD</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-verify-pack[1]</term></tig></langSet>
@@ -1553,7 +1552,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>detached</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>frikopplad</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>frånkopplat</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
@@ -1609,7 +1608,39 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>staging area</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>prepareringsytan|indexet</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>prepareringsytan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>overlay mode</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>överläggsläge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>working trees</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>arbetskataloger</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pathspec elements</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>sökvägsangivelse-poster</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pathspec magic</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>sökvägsuttrycket</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pathspec setting</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>sökvägsinställningen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pathspecs</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>sökvägsangivelser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>magic</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>uttryck</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unstaged</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>ej köad</term></tig></langSet>
             </termEntry>
         </body>
     </text>
