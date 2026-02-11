@@ -266,7 +266,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;remote&gt;</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>&lt;fjärran&gt;</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;fjärr&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-pull[1]</term></tig></langSet>
@@ -951,7 +951,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;refspec&gt;</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>&lt;refspec&gt;</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>&lt;referensspecifikation&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-request-pull[1]</term></tig></langSet>
