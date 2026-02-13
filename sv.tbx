@@ -1642,6 +1642,10 @@
                 <langSet xml:lang="en"><tig><term>unstaged</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>ej köad</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>maintainer </term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>underhålls-ansvarige</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
