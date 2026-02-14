@@ -1642,6 +1642,26 @@
                 <langSet xml:lang="en"><tig><term>unstaged</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>ej köad</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>maintainer</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>underhålls-ansvarige</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>credential</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>legitimationsinformation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parent-commit</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>förälder-incheckning</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>patch</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>patch</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>changesets</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>ändringsset</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
