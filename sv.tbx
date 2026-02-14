@@ -1454,10 +1454,6 @@
                 <langSet xml:lang="sv"><tig><term>skiftlägeskänslig</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>commit-ishs</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>inchecknings-aktiga</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>incheckningar</term></tig></langSet>
             </termEntry>
