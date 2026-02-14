@@ -849,7 +849,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>inchecknings-aktig</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>incheckning-igt</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;patterns&gt;</term></tig></langSet>
@@ -1661,6 +1661,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changesets</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>ändringsset</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit-ishes</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>incheckning-igter</term></tig></langSet>
             </termEntry>
         </body>
     </text>
