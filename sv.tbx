@@ -1671,10 +1671,6 @@
                 <langSet xml:lang="sv"><tig><term>utan funktion</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>squashing </term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>ihopslaging </term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>backend</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>bakända</term></tig></langSet>
             </termEntry>
