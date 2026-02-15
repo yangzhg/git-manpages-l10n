@@ -1682,6 +1682,42 @@
                 <langSet xml:lang="en"><tig><term>squashing</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>ihopslaging</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>slå ihop</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>baka in</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>porcelain</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>porslin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailer</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>släprad</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailing</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>efterföljande</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pager</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>bläddrare</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>housekeeping tasks</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>hushållningssuppgifter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge-commit</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>sammanslagnings-incheckning</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>nonce</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>engångstal</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
