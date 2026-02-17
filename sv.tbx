@@ -1718,6 +1718,10 @@
                 <langSet xml:lang="en"><tig><term>nonce</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>engångstal</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>exclude patterns</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>uteslutnings-mönster</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
