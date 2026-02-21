@@ -1722,6 +1722,10 @@
                 <langSet xml:lang="en"><tig><term>exclude patterns</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>uteslutnings-mönster</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>up-to-date</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>à jour</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
