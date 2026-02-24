@@ -727,7 +727,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blame</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>klandra</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>skyldig</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-archive[1]</term></tig></langSet>
@@ -1725,6 +1725,22 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>up-to-date</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>à jour</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slot</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>fack</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge commit</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>sammanslagnings-incheckning</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sparse</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>gles</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>promisor</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>löftesgivare</term></tig></langSet>
             </termEntry>
         </body>
     </text>
