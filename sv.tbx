@@ -1025,7 +1025,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare clone</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>ren klon</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>bar klon</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-diff-index[1]</term></tig></langSet>
@@ -1344,7 +1344,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bisect</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>halvera</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>binärsökning</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;group&gt;</term></tig></langSet>
