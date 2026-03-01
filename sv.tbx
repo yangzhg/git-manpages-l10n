@@ -1755,6 +1755,14 @@
                 <langSet xml:lang="en"><tig><term>headers</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>huvuden</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>skip-worktree</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>hoppa-över-arbetsträd</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>frontend</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>framända</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
