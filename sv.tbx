@@ -1552,7 +1552,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>rubrik</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>huvud</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>working directory</term></tig></langSet>
@@ -1741,6 +1741,19 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>promisor</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>löftesgivare</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailers</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>släprader</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>folded</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>radbruten</term></tig></langSet>
+                <note from="translator">Context: configuraton value</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>headers</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>huvuden</term></tig></langSet>
             </termEntry>
         </body>
     </text>
