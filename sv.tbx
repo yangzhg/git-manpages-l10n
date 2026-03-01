@@ -1143,7 +1143,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>dra</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>hämta</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-check-attr[1]</term></tig></langSet>
@@ -1640,7 +1640,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>maintainer</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>underhålls-ansvarige</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>förvaltare</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>credential</term></tig></langSet>
