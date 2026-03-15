@@ -2212,7 +2212,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;patterns&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;шаблоны&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;socket-path&gt;</term></tig></langSet>
@@ -2381,7 +2381,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;limit&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>&lt;ограничение&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;предел&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;modes&gt;</term></tig></langSet>
@@ -2406,7 +2406,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;string&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;строка&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;object-id&gt;</term></tig></langSet>
@@ -2430,7 +2430,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;strategy&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;стратегия&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;commit&gt;</term></tig></langSet>
@@ -2462,7 +2462,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;funcname&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;имя-функции&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;full-commit-message&gt;</term></tig></langSet>
@@ -2518,7 +2518,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;message-id&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;id-сообщения&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;subject-prefix&gt;</term></tig></langSet>
@@ -2526,7 +2526,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;replaced-sha1&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;заменённый-sha1&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;remote-name&gt;</term></tig></langSet>
@@ -2731,6 +2731,142 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>&lt;remote&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;внешний-репозиторий&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;date&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;дата&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;timestamp&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;метка-времени&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;glob-pattern&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;шаблон-glob&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;header&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;заголовок&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;missing-action&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;действие-при-отсутствии&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;barrier&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;барьер&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;format-string&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;строка-формата&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>raw</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>необработанный</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;bool-value&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;логическое-значение&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;sep&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;разделитель&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;encoding&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;кодировка&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;start&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;начало&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;end&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;конец&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;limit&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;предел&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;offset&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;смещение&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;branches-subdir&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;подкаталог-веток&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;length&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;длина&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;datestring&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;строка-даты&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;arg&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;аргумент&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;pathtemplate&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;шаблон-пути&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;user&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;пользователь&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;log-options&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;параметры-журнала&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;stash&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;тайник&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;msg&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;сообщение&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;tagname&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;имя-метки&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;tool&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;инструмент&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;commit-ish&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;указатель-на-коммит&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;worktree&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;рабочий-каталог&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;driver&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;драйвер&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;strategy-option&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;параметр-стратегии&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;upload-pack&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;пакет-отправки&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;variable&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;переменная&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;tmpdir&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;врем_каталог&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;folder&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;папка&gt;</term></tig></langSet>
             </termEntry>
         </body>
     </text>
