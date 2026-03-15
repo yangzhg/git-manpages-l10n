@@ -2716,10 +2716,6 @@
                 <langSet xml:lang="en"><tig><term>&lt;object&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;объект&gt;</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>&lt;format&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>&lt;формат&gt;</term></tig></langSet>
-            </termEntry>
             <termEntry id="2">
                 <langSet xml:lang="en"><tig><term>&lt;branch-name&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;имя-ветки&gt;</term></tig></langSet>
