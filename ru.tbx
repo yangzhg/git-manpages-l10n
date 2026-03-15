@@ -144,7 +144,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>[электронная] почта, email</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>[электронная] почта, эл. почта, email</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>failed</term></tig></langSet>
@@ -2686,6 +2686,55 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>refs</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>ссылки</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pseudo-attribute</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>псевдоатрибут</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>scriptlet</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>скриплет</term></tig></langSet>
+                <note from="translator">Scriptlet — это небольшая встроенная программа, которая находится на веб-сервере и выполняется при запросе веб-страницы.</note>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;branch-name&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;имя-ветки&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;hash-algorithm&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;алгоритм-хеша&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;start-point&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;начальная-точка&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;upstream&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;вышестоящая-ветка&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;object&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;объект&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;format&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;формат&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>&lt;branch-name&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;имя-ветки&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;old-branch&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;старая-ветка&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;new-branch&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;новая-ветка&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;remote&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;внешний-репозиторий&gt;</term></tig></langSet>
             </termEntry>
         </body>
     </text>
