@@ -2780,10 +2780,6 @@
                 <langSet xml:lang="en"><tig><term>&lt;stash&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;тайник&gt;</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>&lt;msg&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>&lt;сообщение&gt;</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;tagname&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;имя-метки&gt;</term></tig></langSet>
