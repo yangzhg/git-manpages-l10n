@@ -2888,10 +2888,6 @@
                 <langSet xml:lang="en"><tig><term>&lt;value-pattern&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;шаблон-значения&gt;</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>&lt;socket-path&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>&lt;путь-сокета&gt;</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
