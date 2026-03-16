@@ -2180,7 +2180,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;new-branch&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;новая-ветка&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;start-point&gt;</term></tig></langSet>
@@ -2871,6 +2871,26 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;signature&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;подпись&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;tag&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;метка&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;service&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;служба&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>status</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>состояние</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;value-pattern&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;шаблон-значения&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;socket-path&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;путь-сокета&gt;</term></tig></langSet>
             </termEntry>
         </body>
     </text>
