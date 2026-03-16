@@ -2696,10 +2696,6 @@
                 <langSet xml:lang="en"><tig><term>&lt;hash-algorithm&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;алгоритм-хеша&gt;</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>&lt;start-point&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>&lt;начальная-точка&gt;</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;upstream&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;вышестоящая-ветка&gt;</term></tig></langSet>
