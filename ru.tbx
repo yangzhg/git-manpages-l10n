@@ -2663,10 +2663,6 @@
                 <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>метка-заполнитель</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>метки-заполнители</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudorefs</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>псевдоссылки</term></tig></langSet>
