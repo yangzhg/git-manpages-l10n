@@ -2216,7 +2216,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;socket-path&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;путь-сокета&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;git-dir&gt;</term></tig></langSet>
@@ -2887,6 +2887,26 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;value-pattern&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;шаблон-значения&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;pack-filename&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;имя-файла-пакета&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;dst&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;назначение&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;src&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;источник&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;git-receive-pack&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;пакет-получения-git&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;refname&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;имя_ссылки&gt;</term></tig></langSet>
             </termEntry>
         </body>
     </text>
