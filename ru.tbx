@@ -2704,10 +2704,6 @@
                 <langSet xml:lang="en"><tig><term>&lt;old-branch&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;старая-ветка&gt;</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>&lt;remote&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>&lt;внешний-репозиторий&gt;</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;date&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;дата&gt;</term></tig></langSet>
