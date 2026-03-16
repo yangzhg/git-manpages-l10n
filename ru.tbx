@@ -2725,10 +2725,6 @@
                 <langSet xml:lang="ru"><tig><term>&lt;старая-ветка&gt;</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>&lt;new-branch&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>&lt;новая-ветка&gt;</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>&lt;remote&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;внешний-репозиторий&gt;</term></tig></langSet>
             </termEntry>
