@@ -2868,6 +2868,14 @@
                 <langSet xml:lang="en"><tig><term>&lt;folder&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;папка&gt;</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;pack-idx-file&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;файл-индекса-пакета&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;signature&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;подпись&gt;</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
