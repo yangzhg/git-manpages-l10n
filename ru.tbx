@@ -2696,10 +2696,6 @@
                 <langSet xml:lang="ru"><tig><term>скриплет</term></tig></langSet>
                 <note from="translator">Scriptlet — это небольшая встроенная программа, которая находится на веб-сервере и выполняется при запросе веб-страницы.</note>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>&lt;branch-name&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>&lt;имя-ветки&gt;</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;hash-algorithm&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;алгоритм-хеша&gt;</term></tig></langSet>
