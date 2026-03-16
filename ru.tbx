@@ -2761,10 +2761,6 @@
                 <langSet xml:lang="ru"><tig><term>&lt;кодировка&gt;</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>&lt;start&gt;</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>&lt;начало&gt;</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>&lt;limit&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;предел&gt;</term></tig></langSet>
             </termEntry>
