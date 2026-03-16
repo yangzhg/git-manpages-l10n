@@ -2584,10 +2584,6 @@
                 <langSet xml:lang="en"><tig><term>dry-run</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>пробный запуск</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>сonfiguration variable</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>переменная конфигурации</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>see</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>см.</term></tig></langSet>
