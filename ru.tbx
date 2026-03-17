@@ -2864,6 +2864,30 @@
                 <langSet xml:lang="en"><tig><term>&lt;refname&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;имя_ссылки&gt;</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;paragraph-break&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;разрыв-абзаца&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;annotated-object&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;аннотированный-объект&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;from-object&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;объект-источник&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;to-object&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;объект-назначение&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glob</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>glob-шаблон</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>autostash</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>автотайник</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
