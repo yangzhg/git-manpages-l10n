@@ -20,7 +20,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>оформлення замовлення</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>перехід на іншу гілку</term></tig></langSet>
+                <note from="translator">Команда git checkout використовується переважно для переходу між гілками та відновлення файлів робочого дерева до попереднього стану. У новіших версіях Git (2.23+) її функції концептуально розділено на git switch (для переходу між гілками) та git restore (для роботи з файлами), хоча git checkout залишається повністю функціональною.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>3-way merge</term></tig></langSet>
@@ -44,7 +45,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blame</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>звинувачувати</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>автори змін</term></tig></langSet>
+                <note from="translator">Команда git blame — це функція Git, яка використовується для перегляду інформації про те, хто востаннє вносив зміни до кожного рядка файлу та коли ці зміни були зроблені. Вона допомагає розробникам зрозуміти історію та контекст змін у коді, що є корисним для налагодження або з’ясування причин наявності певного фрагмента коду.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changeset</term></tig></langSet>
@@ -61,6 +63,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bisect</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>розділити навпіл</term></tig></langSet>
+                <note from="translator">Бісекція — це процес поділу об’єкта, кута або набору даних на дві рівні, конгруентні або приблизно рівні частини, який зазвичай використовується в геометрії, математиці та розробці програмного забезпечення для ефективного виділення певної точки. Див. https://uk.wikipedia.org/wiki/Бісекція</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>-p</term></tig></langSet>
@@ -72,7 +75,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>фіксований</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>вказівник коміту</term></tig></langSet>
+                <note from="translator">«Commit-ish» (або «committish») — це термін, що використовується в Git для позначення будь-якого посилання чи ідентифікатора, який у кінцевому підсумку вказує на обʼєкт коміту або може бути рекурсивно розібраний до нього.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>local machine</term></tig></langSet>
@@ -92,7 +96,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>каталог</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>тека</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
@@ -784,7 +788,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>content to be committed</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>контент, який буде зафіксовано</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>вміст, що буде зафіксовано</term></tig></langSet>
                 <descrip>commit 在git中是提交的意思</descrip>
             </termEntry>
             <termEntry>
@@ -817,7 +821,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blob</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>крапля</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>blob-обʼєкт, великий двійковий обʼєкт</term></tig></langSet>
+                <note from="translator">Бінарний великий об’єкт (Binary Large Object, BLOB) — це тип даних, який використовується в інформатиці для зберігання великих обсягів бінарних даних, таких як зображення, аудіо- або відеофайли, у вигляді єдиного об’єкта в базі даних або системі зберігання. Вони є незмінними, тобто їх неможливо безпосередньо змінювати, але на основі наявних об’єктів можна створювати нові.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
@@ -830,7 +835,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>коміт</term></tig></langSet>
-                <note from="translator">? внесок, зміна, подання</note>
+                <note from="translator">Команда git commit використовується для фіксації змін у вашому локальному репозиторії, створюючи знімок поточних файлів, що знаходяться у стадії підготовки до завантаження, на певний момент часу. Ці коміти слугують точками збереження, до яких ви зможете повернутися пізніше, якщо це буде потрібно.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
@@ -843,6 +848,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <note from="translator">У Git HEAD — це символічне посилання (покажчик) на поточний коміт, який ви завантажили у свою робочу теку. Він позначає вершину вашої поточної активної гілки та є батьківським елементом наступного коміту, який ви створите.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
@@ -854,15 +860,16 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>батько</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>пращур</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cherry-picking</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>вибірковий підхід</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>копіювання коміту</term></tig></langSet>
+                <note from="translator">git cherry-pick — це команда Git, яка дозволяє вибрати конкретні коміти з однієї гілки та застосувати їхні зміни як нові коміти у вашій поточній гілці. Це корисно для вибіркового внесення виправлень помилок або нових функцій без злиття всієї історії гілки.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree object</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>деревоподібний об'єкт</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>обʼєкт-дерево</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SCM</term></tig></langSet>
@@ -874,7 +881,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>revision</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>перегляд</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>ревізія</term></tig></langSet>
+                <note from="translator">У Git «ревізія» — це загальний термін, що позначає будь-який спосіб посилання на конкретний момент в історії проєкту, зазвичай це коміт або інший об’єкт, наприклад, блоб чи дерево.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
@@ -886,20 +894,24 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>фіксований</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>вказівник коміту</term></tig></langSet>
+                <note from="translator">«Commit-ish» (або «committish») — це термін, що використовується в Git для позначення будь-якого посилання чи ідентифікатора, який у кінцевому підсумку вказує на об’єкт коміту або може бути рекурсивно розібраний до нього.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>directed acyclic graph</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>орієнтований ациклічний граф</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>спрямований ациклічний граф</term></tig></langSet>
+                <note from="translator">https://uk.wikipedia.org/wiki/Спрямований_ациклічний_граф</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>DAG</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <note from="translator">&lt;https://uk.wikipedia.org/wiki/Спрямований_ациклічний_граф&gt;</note>
                 <descrip>Directed Acyclic Graph</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dangling object</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>висить предмет</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>підвішений обʼєкт</term></tig></langSet>
+                <note from="translator">У Git підвішений обʼєкт — це коміт, блоб (вміст файлу) або дерево (структура тек), який існує в базі даних обʼєктів Git, але до якого неможливо дістатися з жодної гілки, мітки чи іншого посилання (наприклад, HEAD або reflog). По суті, це «покинуті» фрагменти історії.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unreachable object</term></tig></langSet>
@@ -927,7 +939,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>принести</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>fetch</term></tig></langSet>
+                <note from="translator">Команда git fetch використовується для отримання останньої історії комітів, гілок та тегів із віддаленого репозиторію без їх інтеграції у вашу поточну локальну робочу гілку. Це «безпечна» операція, оскільки вона не змінює ваші локальні файли чи активну гілку, що дозволяє переглянути зміни перед їх інтеграцією.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
@@ -939,11 +952,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>grafts</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>трансплантати</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>grafts</term></tig></langSet>
+                <note from="translator">Git grafts — це застарілий механізм, доступний лише на локальному рівні, що дозволяв визначати батьківські коміти, фактично даючи змогу «зʼєднувати» окремі гілки розробки в одному локальному репозиторії. Наразі цю функцію замінила більш надійна та придатна для спільного використання команда git replace. &#13;
+&#13;
+За допомогою grafts можна було вручну вказати або змінити історію батьківського коміту, редагуючи файл .git/info/grafts у вашому репозиторії. Це створювало враження, ніби дві окремі історії є однією суцільною лінією розробки.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>відокремлена ГОЛОВА</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>відокремлений [вказівник] HEAD</term></tig></langSet>
+                <note from="translator">У Git HEAD — це символічне посилання (покажчик) на поточний коміт, який ви завантажили у свою робочу теку. Він позначає вершину вашої поточної активної гілки та є батьківським елементом наступного коміту, який ви створите.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object name</term></tig></langSet>
@@ -959,7 +976,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>тягнути</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>отримати</term></tig></langSet>
+                <note from="translator">Команда git pull використовується для включення змін із віддаленого репозиторію до вашої поточної локальної гілки. По суті, це поєднання двох інших команд: git fetch, за якою слідує або git merge (стандартно), або git rebase</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SHA-1</term></tig></langSet>
@@ -995,11 +1013,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>специфікація шляху</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>специфікатор шляху</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>combined diff</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>комбінований диференціал</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>комбіноване порівняння</term></tig></langSet>
+                <note from="translator">Комбіноване порівняння Git порівнює коміт злиття з усіма його батьківськими комітами одночасно в одному вікні, що є стандартним форматом виведення при використанні команди `git show` для коміту злиття.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pickaxe</term></tig></langSet>
@@ -1007,7 +1026,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>plumbing</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>сантехніка</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>внутрішній механізм</term></tig></langSet>
+                <note from="translator">Термін «Git plumbing» позначає низькорівневі команди та внутрішні механізми, які Git використовує для управління версіями. Ці команди є будівельними блоками, на яких базуються більш зручні для користувача команди «porcelain» (такі як git commit, git push, git pull).</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>per-worktree ref</term></tig></langSet>
@@ -1023,7 +1043,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reflog</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>повторно заповнити</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>журнал змін</term></tig></langSet>
+                <note from="translator">Команда git reflog — це важливий механізм безпеки в Git, який показує журнал усіх останніх змін вершин гілок та інших посилань у вашому локальному репозиторії, включаючи HEAD. Вона реєструє майже кожну дію, таку як коміти, зміна/створення гілок, злиття, перебазування та скидання, навіть ті, що не показуються у звичайному git log.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>[[def_clean]]clean</term></tig></langSet>
@@ -1040,7 +1061,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>literal formatting code</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>код форматування букв</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>код форматування літералів</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-bisect[1]</term></tig></langSet>
@@ -1212,7 +1233,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>вище за течією</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>висхідний</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-format-patch[1]</term></tig></langSet>
@@ -1724,7 +1745,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>pattern</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>візерунок</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>шаблон</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;when&gt;</term></tig></langSet>
@@ -1792,7 +1813,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>submodules</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>підмодулі</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>субмодулі</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>superprojects</term></tig></langSet>
@@ -1800,7 +1821,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;patterns&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;візерунки&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;шаблони&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;socket-path&gt;</term></tig></langSet>
@@ -1844,7 +1865,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;actual url base&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;фактична база URL-адрес&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;базова URL-адреса&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;other url base&gt;</term></tig></langSet>
@@ -1872,7 +1893,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;pattern&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;візерунок&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;шаблон&gt;</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>&lt;sha1&gt;</term></tig></langSet>
@@ -1901,7 +1922,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;perm&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;perm&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;дозволи&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;sha1&gt;</term></tig></langSet>
@@ -1913,11 +1934,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;pathspec&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;специфікація шляху&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;специфікатор-шляху&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;directory&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;довідник&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;тека&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;filter-spec&gt;</term></tig></langSet>
@@ -1938,11 +1959,11 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;hash&gt;</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>&lt;хеш&gt;</term></tig></langSet>
-                <note from="translator">コミットハッシュのこと</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;from-file-range&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;діапазон-файлів-з-доступу&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;з-перелік-файлів&gt;</term></tig></langSet>
+                <note from="translator">Синтаксис &lt;from-file-range&gt; не є стандартною самостійною командою Git або загальною назвою аргументу. Натомість поняття діапазону рядків у файлі зазвичай є частиною опцій конкретної команди; найчастіше воно використовується з командами git log та git blame для обмеження виводу певним набором рядків у файлі в межах історії або в конкретному коміті.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;to-file-range&gt;</term></tig></langSet>
@@ -1950,7 +1971,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;char&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;чар&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;символ&gt;</term></tig></langSet>
+                <note from="translator">char (скор. від character) — тип даних</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;text&gt;</term></tig></langSet>
@@ -1966,7 +1988,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;count&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;рахувати&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;лічильник&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;limit&gt;</term></tig></langSet>
@@ -2003,7 +2025,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;orderfile&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;файл замовлень&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;orderfile&gt;</term></tig></langSet>
+                <note from="translator">Термін &lt;orderfile&gt; — це заповнювач, який використовується в командах Git, насамперед у git diff та git log, для вказівки файлу, що визначає порядок подання змінених файлів у вихідних даних. Це особливо корисно для полегшення читання латок або рецензій шляхом розміщення важливих файлів (таких як файли конфігурації або заголовки) на початку списку.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;lines&gt;</term></tig></langSet>
@@ -2055,7 +2078,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;full-commit-message&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;повідомлення про повний фіксований запис (full-commit)&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;повне-повідомлення-коміту&gt;</term></tig></langSet>
+                <note from="translator">Щоб створити коміт у Git із повним повідомленням (заголовком і текстом) з командного рядка, скористайтеся командою git commit без параметра -m, щоб відкрити системний текстовий редактор, або вкажіть кілька параметрів -m.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;branch&gt;</term></tig></langSet>
@@ -2075,7 +2099,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;git-upload-archive&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;git-завантаження-архіву&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;git-надсилання-архіву&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;version&gt;</term></tig></langSet>
@@ -2123,7 +2147,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>розіменування</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>розгортання посилання</term></tig></langSet>
+                <note from="translator">У Git розгортання посилання — це процес перетворення посилання (наприклад, імені гілки або тегу) у конкретний об’єкт, на який воно вказує, шляхом проходження ланцюжка посилань доти, доки не буде досягнуто несимволічного об’єкта (зазвичай коміту). Це є необхідним для команд, які мають працювати з фактичними даними, а не з символічними іменами.</note>
             </termEntry>
             <termEntry id="noun">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
