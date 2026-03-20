@@ -817,7 +817,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object database</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>об'єктна база даних</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>база даних обʼєктів</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blob</term></tig></langSet>
@@ -839,7 +839,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>голова</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>вершина [гілки]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
@@ -1056,7 +1056,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Interactively choose hunks of patch between the index and the work tree and add them to the index. This gives the user a chance to review the difference before adding modified contents to the index.</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>Інтерактивно вибирайте фрагменти латок між індексом та робочим деревом і додавайте їх до індексу. Це дає користувачеві можливість переглянути різницю, перш ніж додавати змінений вміст до індексу.</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Інтерактивно вибирайте фрагменти латок між індексом та робочим деревом і додавайте їх до індексу. Це дає користувачеві можливість переглянути відмінності, перш ніж додавати змінений вміст до індексу.</term></tig></langSet>
                 <descrip>git</descrip>
             </termEntry>
             <termEntry>
@@ -2021,11 +2021,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;object-id&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;ідентифікатор об'єкта&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;ідентифікатор-об'єкта&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;orderfile&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>&lt;orderfile&gt;</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;файл-порядку&gt;</term></tig></langSet>
                 <note from="translator">Термін &lt;orderfile&gt; — це заповнювач, який використовується в командах Git, насамперед у git diff та git log, для вказівки файлу, що визначає порядок подання змінених файлів у вихідних даних. Це особливо корисно для полегшення читання латок або рецензій шляхом розміщення важливих файлів (таких як файли конфігурації або заголовки) на початку списку.</note>
             </termEntry>
             <termEntry>
@@ -2169,6 +2169,33 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>note</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>нотатка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>committer</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>комітер</term></tig></langSet>
+                <note from="translator">У Git committer (комітер) — це людина, яка фактично застосувала зміни до репозиторію. Хоча зазвичай це та сама особа, що й автор, Git розрізняє ці дві ролі.&#13;
+&#13;
+Різниця між автором та комітером&#13;
+&#13;
+Author (Автор): Той, хто безпосередньо написав код.&#13;
+Committer (Комітер): Той, хто створив запис (коміт) у базі даних Git.&#13;
+&#13;
+Коли вони різні?&#13;
+Найчастіше це трапляється в опенсорс-проєктах: ви надсилаєте свій код (латку), а власник репозиторію перевіряє його і додає в основну гілку. Тоді ви залишаєтесь автором, а власник стає комітером. Також це буває при використанні команд rebase або cherry-pick.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hooks</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>гачки</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hunk</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>фрагмент</term></tig></langSet>
+                <note from="translator">В контексті Git, hunk (шматок або фрагмент) — це невелика частина файлу, яка містить зміни. Коли ви вносите правки, Git розбиває файл на такі логічні блоки, щоб вам було зручніше їх переглядати та додавати в індекс окремо.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hunks</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>фрагменти</term></tig></langSet>
+                <note from="translator">В контексті Git, hunk (шматок або фрагмент) — це невелика частина файлу, яка містить зміни. Коли ви вносите правки, Git розбиває файл на такі логічні блоки, щоб вам було зручніше їх переглядати та додавати в індекс окремо.</note>
             </termEntry>
         </body>
     </text>
