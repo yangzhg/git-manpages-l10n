@@ -62,8 +62,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bisect</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>розділити навпіл</term></tig></langSet>
-                <note from="translator">Бісекція — це процес поділу об’єкта, кута або набору даних на дві рівні, конгруентні або приблизно рівні частини, який зазвичай використовується в геометрії, математиці та розробці програмного забезпечення для ефективного виділення певної точки. Див. https://uk.wikipedia.org/wiki/Бісекція</note>
+                <langSet xml:lang="uk"><tig><term>бісекція, розділити навпіл</term></tig></langSet>
+                <note from="translator">Бісекція — це процес поділу об’єкта, кута або набору даних на дві рівні, конгруентні або приблизно рівні частини, який зазвичай використовується в геометрії, математиці та розробці програмного забезпечення для ефективного виділення певної точки. Див. &lt;https://uk.wikipedia.org/wiki/Бісекція&gt;</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>-p</term></tig></langSet>
@@ -2196,6 +2196,16 @@ Committer (Комітер): Той, хто створив запис (коміт
                 <langSet xml:lang="en"><tig><term>hunks</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>фрагменти</term></tig></langSet>
                 <note from="translator">В контексті Git, hunk (шматок або фрагмент) — це невелика частина файлу, яка містить зміни. Коли ви вносите правки, Git розбиває файл на такі логічні блоки, щоб вам було зручніше їх переглядати та додавати в індекс окремо.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>submodule</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>субмодуль</term></tig></langSet>
+                <note from="translator">Субмодуль Git — це репозиторій Git, вбудований у вигляді теки в інший репозиторій Git. Дозволяє зберігати історію комітів та файли залежного проєкту окремо від основного проєкту, при цьому включаючи його до дерева вихідного коду.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tip</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>вершина [гілки]</term></tig></langSet>
+                <note from="translator">У Git термін «tip» означає найновіший коміт у певній гілці.</note>
             </termEntry>
         </body>
     </text>
