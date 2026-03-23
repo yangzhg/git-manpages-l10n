@@ -2207,6 +2207,10 @@ Committer (Комітер): Той, хто створив запис (коміт
                 <langSet xml:lang="uk"><tig><term>вершина [гілки]</term></tig></langSet>
                 <note from="translator">У Git термін «tip» означає найновіший коміт у певній гілці.</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>часовий відбиток</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
