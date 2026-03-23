@@ -2888,6 +2888,10 @@
                 <langSet xml:lang="en"><tig><term>autostash</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>автотайник</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;replacement-type&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;тип-замены&gt;</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
