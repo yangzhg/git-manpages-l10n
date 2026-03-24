@@ -1897,7 +1897,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;n&gt;</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term/></tig></langSet>
-                <note from="translator">パラメータにおける `n` は記号である（数量を意味することが多い）。</note>
+                <note from="translator">`n` в параметрі є символом (часто означає кількість).</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;depth&gt;</term></tig></langSet>
