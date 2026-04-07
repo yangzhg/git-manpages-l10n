@@ -2892,6 +2892,10 @@
                 <langSet xml:lang="en"><tig><term>&lt;replacement-type&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;тип-замены&gt;</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;author-date&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;дата-автора&gt;</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
