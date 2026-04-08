@@ -2896,6 +2896,18 @@
                 <langSet xml:lang="en"><tig><term>&lt;author-date&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;дата-автора&gt;</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;browser&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;браузер&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>&lt;filter-spec&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;спецификатор-фильтра&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;abbrev-hash&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;краткий-хеш&gt;-создания&gt;)</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
