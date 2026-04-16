@@ -2908,6 +2908,10 @@
                 <langSet xml:lang="en"><tig><term>&lt;abbrev-hash&gt;</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>&lt;краткий-хеш&gt;-создания&gt;)</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&lt;pathname&gt;</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;имя-пути&gt;</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
