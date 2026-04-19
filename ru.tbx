@@ -545,7 +545,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>log.showSignature</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>log.showSignature</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check out</term></tig></langSet>
