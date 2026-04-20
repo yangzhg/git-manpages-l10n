@@ -2924,6 +2924,11 @@
                 <langSet xml:lang="en"><tig><term>subproject</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>подпроект</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>security</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>защита</term></tig></langSet>
+                <note from="translator">чтобы не путать с «safety» — безопасность</note>
+            </termEntry>
         </body>
     </text>
 </martif>
