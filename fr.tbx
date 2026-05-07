@@ -2038,19 +2038,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;address&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;adresse&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;actual url base&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;base-URL-actuelle&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;other url base&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;autre-base-url&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;unix-timestamp&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;horodatage-unix&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;time-zone-offset&gt;</term></tig></langSet>
