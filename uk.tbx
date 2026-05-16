@@ -1012,8 +1012,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>combined diff</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>комбіноване порівняння</term></tig></langSet>
-                <note from="translator">Комбіноване порівняння Git порівнює коміт злиття з усіма його батьківськими комітами одночасно в одному вікні, що є стандартним форматом виведення при використанні команди `git show` для коміту злиття.</note>
+                <langSet xml:lang="uk"><tig><term>комбінований diff</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pickaxe</term></tig></langSet>
@@ -1228,7 +1227,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>висхідний</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>висхідний [репозиторій чи гілка]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-format-patch[1]</term></tig></langSet>
@@ -1752,7 +1751,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;range1&gt;</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>&lt;range1&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;range2&gt;</term></tig></langSet>
