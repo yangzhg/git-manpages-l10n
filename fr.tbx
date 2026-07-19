@@ -1934,7 +1934,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;range1&gt;</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>&lt;plage1&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;range2&gt;</term></tig></langSet>
