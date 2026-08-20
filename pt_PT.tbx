@@ -24,47 +24,49 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>do tipo commit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone (verb)</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>clonar (verbo)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone (noun)</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>clone (nome)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>verificar, checkout</term></tig></langSet>
+                <note from="translator">pode ser o nome de um comando "git checkout"</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check out</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>verificar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changeset</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>conjunto de alterações</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blame</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>culpa</term></tig></langSet>
+                <note from="translator">blame também pode ser nome de um comando "git blame".</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bisect</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>bisecar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare repository</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>repositório vazio</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare repo</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>repositório vazio</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bare clone</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>clone vazio</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>author date</term></tig></langSet>
@@ -104,7 +106,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>repositório</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
@@ -825,7 +827,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blob</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>blob</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
@@ -837,7 +839,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>commit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
@@ -853,11 +855,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>cache</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>chain</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>cadeia</term></tig></langSet>
+                <note from="translator">série de objetos</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
@@ -865,7 +868,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cherry-picking</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>escolha seletiva</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree object</term></tig></langSet>
@@ -877,7 +880,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clean</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>limpo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>revision</term></tig></langSet>
@@ -1439,7 +1442,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>combined diff</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>diferencial combinado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-merge-tree[1]</term></tig></langSet>
@@ -1759,7 +1762,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;base&gt;</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>&lt;base&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;path&gt;</term></tig></langSet>
@@ -1767,7 +1770,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;command&gt;</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>&lt;comando&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;doc&gt;</term></tig></langSet>
@@ -1835,7 +1838,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;branch-name&gt;</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>&lt;nome-do-ramo&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;permissions&gt;</term></tig></langSet>
@@ -1957,7 +1960,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;char&gt;</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>&lt;char&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;text&gt;</term></tig></langSet>
@@ -2030,7 +2033,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;commit&gt;</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>&lt;commit&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;author&gt;</term></tig></langSet>
@@ -2066,7 +2069,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;branch&gt;</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>&lt;ramo&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>&lt;key-id&gt;</term></tig></langSet>
@@ -2134,7 +2137,7 @@
             </termEntry>
             <termEntry id="noun">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>clone</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>script</term></tig></langSet>
