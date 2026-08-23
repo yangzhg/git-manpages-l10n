@@ -2148,10 +2148,6 @@ Como sustantivo: paquete</note>
                 <langSet xml:lang="es"><tig><term>colofón</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>hunk</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>trozo</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>stash</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
