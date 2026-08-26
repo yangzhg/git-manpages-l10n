@@ -880,7 +880,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clean</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>limpo</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>limpar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>revision</term></tig></langSet>
@@ -2145,7 +2145,21 @@
             </termEntry>
             <termEntry id="checked out">
                 <langSet xml:lang="en"><tig><term>checked out</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="parents">
+                <langSet xml:lang="en"><tig><term>parents</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>parentes</term></tig></langSet>
+                <note from="translator">relativo ao grau de hierarquia entre commits</note>
+            </termEntry>
+            <termEntry id="committer">
+                <langSet xml:lang="en"><tig><term>committer</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>autor de alterações</term></tig></langSet>
+            </termEntry>
+            <termEntry id="dereferenced">
+                <langSet xml:lang="en"><tig><term>dereferenced</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>de-referenciado</term></tig></langSet>
+                <note from="translator">Isto é sobre aceder ao valor ao qual um ponteiro cujo endereço armazena.</note>
             </termEntry>
         </body>
     </text>
