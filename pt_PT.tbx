@@ -2133,7 +2133,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>deferência</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>dereferenciar</term></tig></langSet>
             </termEntry>
             <termEntry id="noun">
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
@@ -2160,6 +2160,10 @@
                 <langSet xml:lang="en"><tig><term>dereferenced</term></tig></langSet>
                 <langSet xml:lang="pt_PT"><tig><term>de-referenciado</term></tig></langSet>
                 <note from="translator">Isto é sobre aceder ao valor ao qual um ponteiro cujo endereço armazena.</note>
+            </termEntry>
+            <termEntry id="symbolic ref">
+                <langSet xml:lang="en"><tig><term>symbolic ref</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>referência simbólica</term></tig></langSet>
             </termEntry>
         </body>
     </text>
