@@ -2363,10 +2363,6 @@ Como sustantivo: paquete</note>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="2">
-                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
