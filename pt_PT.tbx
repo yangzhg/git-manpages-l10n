@@ -847,7 +847,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>árvore em trabalho</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>árvore de trabalho</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
@@ -950,7 +950,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
                 <langSet xml:lang="pt_PT"><tig><term>HEAD separada</term></tig></langSet>
-                <note from="translator">&lt;</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object name</term></tig></langSet>
