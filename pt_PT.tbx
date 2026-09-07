@@ -982,7 +982,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>octopus</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>polvo</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>octopus</term></tig></langSet>
+                <note from="translator">Isto é referência a mesclar mais que dois ramos. Sendo que "polvo" não é a terminologia correspondente, deve-se deixar igual.</note>
                 <descrip>glossary</descrip>
             </termEntry>
             <termEntry>
@@ -2163,6 +2164,28 @@
             <termEntry id="symbolic ref">
                 <langSet xml:lang="en"><tig><term>symbolic ref</term></tig></langSet>
                 <langSet xml:lang="pt_PT"><tig><term>referência simbólica</term></tig></langSet>
+            </termEntry>
+            <termEntry id="call-out">
+                <langSet xml:lang="en"><tig><term>call-out</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>notificação, alerta</term></tig></langSet>
+                <note from="translator">docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts</note>
+            </termEntry>
+            <termEntry id="call-outs">
+                <langSet xml:lang="en"><tig><term>call-outs</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>notificações, alertas</term></tig></langSet>
+                <note from="translator">docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts</note>
+            </termEntry>
+            <termEntry id="master">
+                <langSet xml:lang="en"><tig><term>master</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="hexadecimal">
+                <langSet xml:lang="en"><tig><term>hexadecimal</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="string">
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>cadeia de carateres</term></tig></langSet>
             </termEntry>
         </body>
     </text>
