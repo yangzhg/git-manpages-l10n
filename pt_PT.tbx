@@ -1002,8 +1002,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>especificação de caminho</term></tig></langSet>
-                <note from="translator">&lt;pa</note>
+                <langSet xml:lang="pt_PT"><tig><term>pathspec</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pickaxe</term></tig></langSet>
@@ -1217,7 +1216,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>origem</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>upstream</term></tig></langSet>
+                <note from="translator">Aqui upstream é, normalmente, o repositório remoto "origem" para onde as alterações são enviadas e arquivadas.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>linkgit:git-format-patch[1]</term></tig></langSet>
@@ -2177,15 +2177,19 @@
             </termEntry>
             <termEntry id="master">
                 <langSet xml:lang="en"><tig><term>master</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="hexadecimal">
                 <langSet xml:lang="en"><tig><term>hexadecimal</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="string">
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
                 <langSet xml:lang="pt_PT"><tig><term>cadeia de carateres</term></tig></langSet>
+            </termEntry>
+            <termEntry id="subtree">
+                <langSet xml:lang="en"><tig><term>subtree</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>subárvore</term></tig></langSet>
             </termEntry>
         </body>
     </text>
