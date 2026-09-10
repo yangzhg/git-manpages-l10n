@@ -2191,6 +2191,14 @@
                 <langSet xml:lang="en"><tig><term>subtree</term></tig></langSet>
                 <langSet xml:lang="pt_PT"><tig><term>subárvore</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>wildcard</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>wildcards</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
