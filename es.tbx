@@ -2300,10 +2300,6 @@ Como sustantivo: paquete</note>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>diff</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
