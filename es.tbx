@@ -2279,10 +2279,6 @@ Como sustantivo: paquete</note>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>fast-forward</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
