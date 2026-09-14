@@ -2151,10 +2151,6 @@ Como sustantivo: paquete</note>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
