@@ -2270,10 +2270,6 @@ Como sustantivo: paquete</note>
                 <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remote</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
