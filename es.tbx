@@ -2278,10 +2278,6 @@ Como sustantivo: paquete</note>
                 <langSet xml:lang="en"><tig><term>remote</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>log</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
