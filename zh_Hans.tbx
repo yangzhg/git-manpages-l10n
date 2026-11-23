@@ -200,7 +200,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>endpoint</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>接口</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>端点</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fast-forward</term></tig></langSet>
@@ -244,7 +244,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hunk</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>数据块/区块/片段</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>补丁块</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ignore</term></tig></langSet>
@@ -578,7 +578,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit-ish</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>commit-ish</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>提交号</term></tig></langSet>
                 <note from="translator">导向提交对象的标识符</note>
             </termEntry>
             <termEntry>
@@ -621,7 +621,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>master branch</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>主分支</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>master 分支</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remote-tracking</term></tig></langSet>
@@ -1341,7 +1341,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blob</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>blob</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>数据对象</term></tig></langSet>
                 <note from="translator">git中一种对象类型，用以储存一般数据，如被追踪的文件</note>
             </termEntry>
             <termEntry>
@@ -1397,7 +1397,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>grafts</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>移植</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>提交嫁接</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
